@@ -245,7 +245,7 @@ $(document).ready(function(){
      * Copy and copyright
      */
     function setClipboardData(str) {
-        str += '@ngaoduky' + location.href;
+        str += 'ngaoduky' + location.href;
         $('.post-content').on('copy', function(e) {
             var data = window.clipboardData || e.originalEvent.clipboardData;
             data.setData('text/plain', str);
