@@ -4,10 +4,10 @@ title: "[Xuyên Việt] Hành trình bắt đầu"
 author: "Đèn Đỏ"
 categories: journal
 tags: [documentation,sample]
-cover: 'https://dendosg.github.io/assets/img/uploads/2017/02/featured-xuyen-viet-binh-thuan.jpg'
+cover: 'https://dendosg.github.io/assets/img/upload/2017/02/featured-xuyen-viet-binh-thuan.jpg'
 ---
 
-![](https://dendosg.github.io/assets/img/uploads/2017/02/f-xuyen-viet-binh-thuan.jpg)
+![](https://dendosg.github.io/assets/img/upload/2017/02/f-xuyen-viet-binh-thuan.jpg)
 
 5h sáng ngày 02-07-2016, chúng tôi lên đường thực hiện chuyến đi đã được chờ đợi hơn nửa năm trời. Cảm giác vừa háo hức vừa hồi hộp, không nghĩ nó đến nhanh như thế. Vậy là chuyến đi của tôi và thằng bạn tôi đã bắt đầu – 30 ngày chạy xe máy khắp Việt Nam.
 
@@ -18,13 +18,13 @@ Mà không, thực ra chuyến đi đã bắt đầu kể từ khi nó hỏi vu 
 
 Và thế là cái dự định ra đời, trên biển Vũng Tàu :)). Trước đó tôi chỉ thoáng nghĩ là 1 ngày nào đó tôi sẽ chạy xe máy từ Nam ra Bắc để nhìn ngắm đất nước mình, thế nhưng sau câu nói chắc như bắp đó thì tôi bắt đầu suy nghĩ nghiêm túc hơn về chuyến hành trình này.
 
-![](https://dendosg.github.io/assets/img/uploads/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang.jpg)
+![](https://dendosg.github.io/assets/img/upload/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang.jpg)
 
 Đầu tư nguyên 1 bộ đồ nghề mà cuối cùng không phải đụng tới.
 
 Tôi bắt đầu tìm hiểu, lên kế hoạch, chuẩn bị đồ đạc. Và thực sự lên khung sườn kế hoạch  cho 1 chuyến đi là 1 điều luôn làm tôi cảm thấy hạnh phúc. Hơn nữa đây lại là 1 chuyến đi dài, 1 hành trình sẽ rất đáng nhớ, tôi càng háo hứng hơn.
 
-![](https://dendosg.github.io/assets/img/uploads/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-15.jpg)
+![](https://dendosg.github.io/assets/img/upload/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-15.jpg)
 
 Ngày đầu tiên của hành trình. Đoạn đường ven biển từ Kê Gà đi Phan Thiết
 
@@ -43,34 +43,34 @@ Thế đó, xăng đang rẻ, tuổi còn trẻ, tóc vẫn xanh, máu thì nón
 
 #### Một số hình ảnh ngày đầu tiên
 
-![](https://dendosg.github.io/assets/img/uploads/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-2.jpg)
+![](https://dendosg.github.io/assets/img/upload/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-2.jpg)
 
-![](https://dendosg.github.io/assets/img/uploads/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-6.jpg)
+![](https://dendosg.github.io/assets/img/upload/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-6.jpg)
 
-![](https://dendosg.github.io/assets/img/uploads/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-14.jpg)
+![](https://dendosg.github.io/assets/img/upload/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-14.jpg)
 
-![](https://dendosg.github.io/assets/img/uploads/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-5.jpg)
+![](https://dendosg.github.io/assets/img/upload/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-5.jpg)
 
-![](https://dendosg.github.io/assets/img/uploads/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-4.jpg)
+![](https://dendosg.github.io/assets/img/upload/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-4.jpg)
 
-![](https://dendosg.github.io/assets/img/uploads/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-8.jpg)
+![](https://dendosg.github.io/assets/img/upload/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-8.jpg)
 
-![](https://dendosg.github.io/assets/img/uploads/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-3.jpg)
+![](https://dendosg.github.io/assets/img/upload/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-3.jpg)
 
-![](https://dendosg.github.io/assets/img/uploads/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-7.jpg)
+![](https://dendosg.github.io/assets/img/upload/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-7.jpg)
 
-![](https://dendosg.github.io/assets/img/uploads/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-9.jpg)
+![](https://dendosg.github.io/assets/img/upload/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-9.jpg)
 
-![](https://dendosg.github.io/assets/img/uploads/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-12.jpg)
+![](https://dendosg.github.io/assets/img/upload/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-12.jpg)
 
-![](https://dendosg.github.io/assets/img/uploads/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-11.jpg)
+![](https://dendosg.github.io/assets/img/upload/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-11.jpg)
 
-![](https://dendosg.github.io/assets/img/uploads/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-16.jpg)
+![](https://dendosg.github.io/assets/img/upload/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-16.jpg)
 
-![](https://dendosg.github.io/assets/img/uploads/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-17.jpg)
+![](https://dendosg.github.io/assets/img/upload/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-17.jpg)
 
-![](https://dendosg.github.io/assets/img/uploads/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-1.jpg)
+![](https://dendosg.github.io/assets/img/upload/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-1.jpg)
 
-![](https://dendosg.github.io/assets/img/uploads/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-10.jpg)
+![](https://dendosg.github.io/assets/img/upload/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-10.jpg)
 
-![](https://dendosg.github.io/assets/img/uploads/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-13.jpg)
+![](https://dendosg.github.io/assets/img/upload/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-13.jpg)

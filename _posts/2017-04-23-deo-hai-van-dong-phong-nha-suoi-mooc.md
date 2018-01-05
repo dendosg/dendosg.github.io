@@ -4,7 +4,7 @@ title: "[Xuyên Việt] vượt đèo Hải Vân, vào động Phong Nha, nhảy
 author: "Đèn Đỏ"
 categories: journal
 tags: [documentation,sample]
-cover: 'https://dendosg.github.io/assets/img/uploads/2017/04/GOPR6143.jpg'
+cover: 'https://dendosg.github.io/assets/img/upload/2017/04/GOPR6143.jpg'
 ---
 
 
