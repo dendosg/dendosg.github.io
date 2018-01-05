@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 'Đến Bình Thuận thì đi đâu'
-categories: Kinh Nghiệm
-author: Jekyll
+categories: [Kinh Nghiệm]
+author: 'Đèn Đỏ'
 cover: 'https://dendosg.github.io/assets/img/upload/2017/02/featured-binh-thuan.jpg'
-tags: jekyll
+tags: [Kê Gà,Mũi Né,Phan Thiết,Bàu Trắng,Suối Tiên]
 ---
 
 ![](https://dendosg.github.io/assets/img/upload/2017/02/f-binh-thuan.jpg)
@@ -19,7 +19,8 @@ Mình xin chia sẻ 1 vài địa điểm và lịch trình tham khảo dưới 
 
 Hải đăng mũi Kê Gà cách Phan Thiết 30km về hướng Nam. Con đường ven biển từ Phan Thiết đi Kê Gà rất đẹp, đường rộng và ít khúc cua, cây cối nhiều kết hợp với gió biển, tạo cho bạn một cảm giác thư thái dễ chịu khi di chuyển trên cung đường này. Đây là một trong những ngọn hải đăng cao và cổ xưa nhất Đông Nam Á.
 
-![](https://dendosg.github.io/assets/img/upload/2017/02/phan-thiet-mui-ne-binh-thuan-1-1.jpg)
+![Hải đăng Kê Gà nhìn từ xa](https://dendosg.github.io/assets/img/upload/2017/02/phan-thiet-mui-ne-binh-thuan-1-1.jpg)
+*Hải đăng Kê Gà nhìn từ xa*
 
 ![](https://dendosg.github.io/assets/img/upload/2017/02/phan-thiet-mui-ne-binh-thuan-18.jpg)
 
@@ -121,3 +122,4 @@ Tối lên Phan Thiết ăn uống bung lụa rồi về lại Mũi Né, tiện 
 Sáng ra Mũi Né tắm biển rồi chạy lên Bàu Trắng chơi tí, chủ yếu là đi cái đoạn đường đẹp đẹp qua Bàu Trắng thôi :3. Xong rồi thong thả mà về Sài Gòn, hết tuần. Hết bài.
 
 Đây là cái bản đồ mấy điểm ở trên, xem cho dễ hình dung nè.
+<iframe src="https://www.google.com/maps/d/embed?mid=1Y1DtHetMCR1cdN758jiXm0vjt3o" width="640" height="480"></iframe>
