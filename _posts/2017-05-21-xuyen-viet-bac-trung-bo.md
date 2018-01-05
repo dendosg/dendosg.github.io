@@ -15,70 +15,70 @@ cover: 'https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-
 
 Sau một đêm cắm trại ở Vạn Buồng(Quảng Nam), chúng tôi về Đà Nẵng thu dọn hành lý rồi tiếp tục hành trình. Quãng đường tiếp theo sẽ là men theo đèo Hải Vân để đến với Huế.
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/deo-hai-van-28.jpg)
+![đèo hải vân](https://dendosg.github.io/assets/img/upload/2017/05/deo-hai-van-28.jpg)
 
-Đèo Hải Vân là ranh giới tự nhiên giữa Đà Nẵng và Thừa Thiên Huế, có chiều dài hơn 20km
+*Đèo Hải Vân là ranh giới tự nhiên giữa Đà Nẵng và Thừa Thiên Huế, có chiều dài hơn 20km*
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/deo-hai-van-18.jpg)
+![đèo hải vân](https://dendosg.github.io/assets/img/upload/2017/05/deo-hai-van-18.jpg)
 
 Đèo Hải Vân nối Đà Nẵng với Thừa Thiên Huế, là 1 trong những còn đèo ở Việt Nam mà chúng tôi muốn đi qua nhất. Lý do đơn giản là nghe khen nhiều rồi mà chưa được tự mình kiểm chứng.
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/deo-hai-van-8.jpg)
+![đèo hải vân](https://dendosg.github.io/assets/img/upload/2017/05/deo-hai-van-8.jpg)
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/deo-hai-van-1.jpg)
+![đèo hải vân](https://dendosg.github.io/assets/img/upload/2017/05/deo-hai-van-1.jpg)
 
 Lên trên đèo, hiện ra trước mặt chúng tôi là vịnh Đà Nẵng với dải bờ biển xanh ngắt. Tầm nhìn rất rộng, có thể nhìn thấy Đà Nẵng được ôm trọn bởi đèo Hải Vân ở phía Bắc và bán đảo Sơn Trà phía Nam.
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/deo-hai-van-16.jpg)
+![đèo hải vân](https://dendosg.github.io/assets/img/upload/2017/05/deo-hai-van-16.jpg)
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/deo-hai-van-26.jpg)
+![đèo hải vân](https://dendosg.github.io/assets/img/upload/2017/05/deo-hai-van-26.jpg)
 
 Thời tiết vẫn đang ủng hộ chúng tôi trong chuyến đi này, trời xanh mây trắng, gió biển mát lành, thêm việc chạy xe chầm chậm trên đường đèo uốn lượn quanh co, khiến cho tình thần chúng tôi vô cùng phấn khích.
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/deo-hai-van-22.jpg) ![](https://dendosg.github.io/assets/img/upload/2017/05/deo-hai-van-25.jpg)
+![đèo hải vân](https://dendosg.github.io/assets/img/upload/2017/05/deo-hai-van-22.jpg) ![](https://dendosg.github.io/assets/img/upload/2017/05/deo-hai-van-25.jpg)
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/deo-hai-van-24.jpg)
+![đèo hải vân](https://dendosg.github.io/assets/img/upload/2017/05/deo-hai-van-24.jpg)
 
 Trên hành trình từ Nam ra Bắc thì có lẽ đèo Hải Vân là con đèo hiểm trở, hùng vĩ nhất, quanh co nhất.
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/deo-hai-van-23.jpg)
+![đèo hải vân](https://dendosg.github.io/assets/img/upload/2017/05/deo-hai-van-23.jpg)
 
 Từ khi hầm Hải Vân đưa vào hoạt động thì phần lớn các phương tiện đều chọn phương án đi qua hầm. Đi lên đèo thường là những người thích khám phá thiên nhiên, thích cảm giác mạnh, cảm giác tự do giữa mây trời giữa đồi núi.
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/deo-hai-van-17.jpg)
+![đèo hải vân](https://dendosg.github.io/assets/img/upload/2017/05/deo-hai-van-17.jpg)
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/hue.jpg)
+![Đi hết đèo, chúng tôi đến thị trấn Lăng Cô](https://dendosg.github.io/assets/img/upload/2017/05/hue.jpg)
 
-Đi hết đèo, chúng tôi đến thị trấn Lăng Cô
+*Đi hết đèo, chúng tôi đến thị trấn Lăng Cô*
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/hue-2.jpg)
+![những cánh đồng lúa bát ngát cùng những làng quê thanh bình trên đường dẫn tới Huế](https://dendosg.github.io/assets/img/upload/2017/05/hue-2.jpg)
 
-Những cánh đồng lúa bát ngát cùng những làng quê thanh bình trên đường dẫn tới thành phố Huế
+*Những cánh đồng lúa bát ngát cùng những làng quê thanh bình trên đường dẫn tới thành phố Huế*
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/deo-hai-van-27.jpg)
+![trên đèo Hải Vân](https://dendosg.github.io/assets/img/upload/2017/05/deo-hai-van-27.jpg)
 
-Để tới được thành phố Huế chúng tôi cần vượt 1 con đèo nữa. Đèo Phú Gia đường rất đẹp và vắng
+*Để tới được thành phố Huế chúng tôi cần vượt 1 con đèo nữa. Đèo Phú Gia đường rất đẹp và vắng*
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/deo-phu-gia-1.jpg)
+![đèo Phú Gia](https://dendosg.github.io/assets/img/upload/2017/05/deo-phu-gia-1.jpg)
 
-Khúc cua tay áo trên đèo Phú Gia
+*Khúc cua tay áo trên đèo Phú Gia*
 
 2, Thành phố Huế
 ----------------
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/hue-6.jpg)
+![rất nhiều cây xanh trong thành phố Huế](https://dendosg.github.io/assets/img/upload/2017/05/hue-6.jpg)
 
 Đến Huế. Cảm nhận đầu tiên về thành phố này là có nhiều cây xanh, đi đường nào cũng rậm rạp bóng cây
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/IMG_0823.jpg)
+![trường Quốc Học Huế](https://dendosg.github.io/assets/img/upload/2017/05/IMG_0823.jpg)
 
-Quốc Học Huế – ngồi trường mà thời đi học mình đã rất ngưỡng mộ
+*Quốc Học Huế – ngồi trường mà thời đi học mình đã rất ngưỡng mộ*
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/hue-4.jpg)
+![Đại Nội - Huế](https://dendosg.github.io/assets/img/upload/2017/05/hue-4.jpg)
 
 Bên ngoài Đại Nội – Huế
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/hue-5.jpg) ![](https://dendosg.github.io/assets/img/upload/2017/05/hue-8.jpg)
+![Đại Nội - Huế](https://dendosg.github.io/assets/img/upload/2017/05/hue-5.jpg) ![Đại Nội - Huế](https://dendosg.github.io/assets/img/upload/2017/05/hue-8.jpg)
 
 Sau khi lượn 1 vòng ở Huế thăm các cổng kinh thành, thì chúng tôi lại quyết định không ở lại Huế mà đi tiếp về hướng Quảng Trị, mặc dù trước đó đã dự định ở Huế 2 ngày. Lý do 1 phần là thấy Huế không có gì quá đặc sắc để giữ chân chúng tôi, 1 phần muốn dành thêm thời gian cho các tỉnh phía Bắc.
 
@@ -87,19 +87,19 @@ Sau khi lượn 1 vòng ở Huế thăm các cổng kinh thành, thì chúng tô
 
 Tới Quảng Trị chúng tôi chỉ kịp ghé qua thành cổ Quảng Trị 1 lúc rồi đi luôn vì trời đang tối rất nhanh. Bởi điểm dừng tối nay sẽ là nhà của 1 người bạn, ở Lệ Thủy – Quảng Bình và chúng tôi đang cách đó rất xa.
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/thanh-co-quang-tri-1.jpg)
+![thành cổ Quảng Trị](https://dendosg.github.io/assets/img/upload/2017/05/thanh-co-quang-tri-1.jpg)
 
-Thành cổ Quảng Trị
+*Thành cổ Quảng Trị*
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/thanh-co-quang-tri-4.jpg)
+![bên trong thành cổ Quảng Trị](https://dendosg.github.io/assets/img/upload/2017/05/thanh-co-quang-tri-4.jpg)
 
 Thế giới biết đến thành cổ Quảng Trị với trận đánh 81 ngày đêm năm 1972. Chỉ hơn 1 tháng, Mỹ ngụy ném xuống thị xã Quảng Trị số bom bằng với số bom Mỹ dùng trong 1 tháng trên-toàn-bộ-chiến-trường-Châu-Phi. Nếu tính trung bình mỗi người dân ở đây phải gánh chịu 7 tấn bom. 81 ngày đêm cả thành cổ Quảng Trị rung chuyển trong bom đạn. Sau trận đánh, toàn bộ thành cổ gần như bị san phẳng. Hàng nghìn chiến sẽ đã hy sinh trong thành, rất nhiều trong số đó mới 18, đôi mươi. Trong ảnh phía xa là đài tưởng niệm ghi dấu ấn 81 ngày đêm năm 1972.
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/IMG_0832.jpg)
+![bệ súng thần công](https://dendosg.github.io/assets/img/upload/2017/05/IMG_0832.jpg)
 
-Bệ súng thần công dùng trong chiến tranh ở thị xã Quảng Trị
+*Bệ súng thần công dùng trong chiến tranh ở thị xã Quảng Trị*
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/cau-hien-luong.jpg)
+![cầu Hiền Lương](https://dendosg.github.io/assets/img/upload/2017/05/cau-hien-luong.jpg)
 
 Cây cầu Hiền Lương bắc qua sông Bến Hải, 1 địa danh lịch sử nổi tiếng ở Quảng Trị. Cây cầu này đã từng là ranh giới chia cắt Việt Nam thành hai miền Nam Bắc từ năm 1954 đến 1975
 
@@ -110,113 +110,112 @@ Kết thúc 1 ngày dài rong ruổi xe máy, quãng đường di chuyển ngày
 4, Quảng Bình
 -------------
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-quang-binh-21.jpg)
+![trên đường tới động Phong Nha](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-quang-binh-21.jpg)
 
 Sáng hôm sau, Dương dẫn chúng tôi đi động Phong Nha
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/IMG_0851.jpg)
+![đường tới động Phong Nha](https://dendosg.github.io/assets/img/upload/2017/05/IMG_0851.jpg)
 
-Đường tới động Phong Nha
+*Đường tới động Phong Nha*
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-quang-binh-17.jpg) ![](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-quang-binh-12.jpg)
+![đường tới động Phong Nha](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-quang-binh-17.jpg) ![](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-quang-binh-12.jpg)
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-ke-quang-quang-binh-9.jpg)
+![chiếc thuyền dọc sông Son để vào động Phong Nha](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-ke-quang-quang-binh-9.jpg)
 
-Ngồi trên chiếc thuyền chở đang chúng tôi dọc theo sông Son để vào động
+*Ngồi trên chiếc thuyền chở đang chúng tôi dọc theo sông Son để vào động*
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-ke-quang-quang-binh-11.jpg)
+![chiếc thuyền dẫn chúng tôi vào động Phong Nha](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-ke-quang-quang-binh-11.jpg)
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-ke-quang-quang-binh-12.jpg)
+![cửa động Phong Nha](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-ke-quang-quang-binh-12.jpg)
 
-Cửa động Phong Nha
+*Cửa động Phong Nha*
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-ke-quang-quang-binh-1.jpg)
+![cửa động Phong Nha](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-ke-quang-quang-binh-1.jpg)
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-ke-quang-quang-binh-2.jpg) ![](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-ke-quang-quang-binh-3.jpg)
+![bên trong động Phong Nha](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-ke-quang-quang-binh-2.jpg) ![bên trong động Phong Nha](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-ke-quang-quang-binh-3.jpg)
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-ke-quang-quang-binh-4.jpg) ![](https://dendosg.github.io/assets/img/upload/2017/05/IMG_0872-Copy.jpg) ![](https://dendosg.github.io/assets/img/upload/2017/05/IMG_0878.jpg)
+![bên trong động Phong Nha](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-ke-quang-quang-binh-4.jpg) ![](https://dendosg.github.io/assets/img/upload/2017/05/IMG_0872-Copy.jpg) ![](https://dendosg.github.io/assets/img/upload/2017/05/IMG_0878.jpg)
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-ke-quang-quang-binh-5.jpg)
+![bến thuyền sông Son](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-ke-quang-quang-binh-5.jpg)
 
 Bến thuyền sông Son, bến đỗ của các con thuyền chở du khách vào động Phong Nha
 
 Sau khi tham quan động Phong Nha, chúng tôi di chuyển tới suối Nước Moọc, cách động Phong Nha khoảng 10km.
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-quang-binh-8-1.jpg)
+![đường Hồ Chí Minh](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-quang-binh-8-1.jpg)
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-quang-binh-4.jpg)
+![đường Hồ Chí Minh](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-quang-binh-4.jpg)
 
 Đường Hồ Chí Minh nhánh Tây dẫn chúng tôi vào Suối Moọc
 
 Là một khu du lịch ẩn mình giữa núi rừng Phong Nha – Kẻ Bàng, thu hút rất đông khách du lịch trong những ngày hè nóng nực. Cái tên Nước Moọc (tiếng địa phương có nghĩ là nước mọc) bắt nguồn từ việc dòng suối cứ mọc ùn ùn từ dưới lên.
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-10.jpg)
+![cây cầu ở suối Nước Moọc](https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-10.jpg)
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-2.jpg)
+![chèo thuyền Kayak ở suối nước Moọc](https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-2.jpg)
 
-Chèo thuyền kayak trên suối Moọc
+*Chèo thuyền kayak trên suối Moọc*
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-11.jpg)
+![Nước suối trong veo ở suối Moọc](https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-11.jpg)
 
-Nước suối trong veo, xanh ngắt, mát rợn người
+*Nước suối trong veo, xanh ngắt, mát rợn người*
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-17.jpg)
+![kdl suối nước Moọc](https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-17.jpg)
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-9.jpg)
+![kdl suối nước Moọc](https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-9.jpg)
 
 Việc ngồi trên thuyền kayak, ngắm cảnh yên bình xung quanh, cảm nhận cái lạnh của dòng nước nét hoang sơ của núi rừng, hít thở không khí trong lành. Mọi mệt mỏi của việc chạy xe nguyên ngày hôm qua như tan biến hết.
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh.jpg)
+![kdl suối nước Moọc](https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh.jpg)
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-15.jpg)
+![nhảy từ trên cao xuống suối Moọc](https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-15.jpg)
 
-Việc nhảy từ trên cao xuống suối mang lại cảm giác rất thú vị và mới lạ
+*Việc nhảy từ trên cao xuống suối mang lại cảm giác rất thú vị và mới lạ*
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-3.jpg)
+![nhảy từ trên cao xuống suối Moọc](https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-3.jpg)
 
 Khoái nhất cái trò này, nhảy đi nhảy lại mấy lần. Có 1 lần nhảy xuống mạnh quá làm dây áo phao đứt 1 bên ra, cũng may không tuột ra khỏi người. Trong khi hồ rất sâu và nước thì chảy xiết.
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-18.jpg) ![](https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-5.jpg) ![](https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-7.jpg)
+![nhảy từ trên cao xuống suối Moọc](https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-18.jpg) ![nhảy từ trên cao xuống suối Moọc](https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-5.jpg) ![nhảy từ trên cao xuống suối Moọc](https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-7.jpg)
 
 Tối đến, ngồi ăn nhậu hát hò với bạn của Dương, quen thêm được vài người bạn mới. Hết ngày.
 
 Sáng hôm sau, chào tạm biệt và cảm ơn gia đình Dương đã đón tiếp nhiệt tình, chúng tôi lên đường đi thăm mộ đại tướng Võ Nguyên Giáp ở Vũng Chùa – huyện Quảng Trạch – Quảng Bình.
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/tham-mo-dai-tuong-Vo-Nguyen-Giap.jpg)
+![Vũng Chùa - nơi yên nghỉ cuối cùng của đại tướng Võ Nguyên Giáp](https://dendosg.github.io/assets/img/upload/2017/05/tham-mo-dai-tuong-Vo-Nguyen-Giap.jpg)
 
-Vũng Chùa – vùng đất yến bình, là nơi yên nghỉ cuối cùng của đại tướng Võ Nguyên Giáp
+*Vũng Chùa – vùng đất yến bình, là nơi yên nghỉ cuối cùng của đại tướng Võ Nguyên Giáp*
 
 5, Hà Tĩnh – Nghệ An
 --------------------
 
 Sau khi viếng mộ Đại tướng, từ Vũng Chùa chúng tôi đi về hướng Bắc 6km nữa là đèo Ngang, chính là ranh giới giữa Quảng Bình và Hà Tĩnh. Tới Hà Tĩnh, Nghệ An thì là quê 2 thằng rồi, ăn ngủ không phải lo. Mấy ngày này cũng không đi đâu chơi, dưỡng sức vài ngày để còn chiến tiếp nửa chuyến đi còn lại.
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/nga-ba-Dong-Loc-2.jpg)
+![Ngã Ba Đồng Lộc](https://dendosg.github.io/assets/img/upload/2017/05/nga-ba-Dong-Loc-2.jpg)
 
 Ngã ba Đồng Lộc – Hà Tĩnh, di tích lịch sử gắn liền với sự hy sinh của 10 cô gái thanh niên xung phong khi tuổi đời còn rất trẻ trong cuộc kháng chiến chống Mỹ
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/que.jpg)
+![bên dòng sông Lam](https://dendosg.github.io/assets/img/upload/2017/05/que.jpg)
 
-Bên dòng sông Lam – Nghệ An
+*Bên dòng sông Lam – Nghệ An*
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/GOPR6706.jpg)
+![trên đường từ Vinh về huyện Nam Đàn](https://dendosg.github.io/assets/img/upload/2017/05/GOPR6706.jpg)
 
-Trên đường từ tp.Vinh về Nam Đàn
+*Trên đường từ tp.Vinh về Nam Đàn*
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/GOPR6723.jpg)
+![Làng Sen - quê nội Bác Hồ](https://dendosg.github.io/assets/img/upload/2017/05/GOPR6723.jpg)
 
-Ngôi nhà đơn sơ tại làng Sen, nơi gắn liền với tuổi thơ của Bác Hồ.
+*Ngôi nhà đơn sơ tại làng Sen, nơi gắn liền với tuổi thơ của Bác Hồ.*
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/lang-sen-que-noi-bac-ho-1.jpg)
+![bộ bàn ghế bằng tre](https://dendosg.github.io/assets/img/upload/2017/05/lang-sen-que-noi-bac-ho-1.jpg)
 
-Bộ bàn ghế bằng tre – nơi bàn chuyện thế sự
+*Bộ bàn ghế bằng tre – nơi bàn chuyện thế sự*
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/lang-sen-que-noi-bac-ho-2.jpg)
+![khung cửi gỗ bà Hoàng Thị Loan dùng dệt lụa](https://dendosg.github.io/assets/img/upload/2017/05/lang-sen-que-noi-bac-ho-2.jpg)
 
-Khung cửi bà Hoàng Thị Loan (mẹ của Bác Hồ) dệt lụa mỗi đêm
+*Khung cửi bà Hoàng Thị Loan (mẹ của Bác Hồ) dệt lụa mỗi đêm*
 
-![](https://dendosg.github.io/assets/img/upload/2017/05/lang-sen-que-noi-bac-ho-3.jpg)
+![hàng rau dâm bụt bao quanh ngôi nhà đơn sơ](https://dendosg.github.io/assets/img/upload/2017/05/lang-sen-que-noi-bac-ho-3.jpg)
 
-Xung quanh là lũy tre xanh, có hàng rào dâm bụt, những khu vườn xanh mướt bao quanh.
+*Xung quanh là lũy tre xanh, có hàng rào dâm bụt, những khu vườn xanh mướt bao quanh.*
 
-jQuery(document).ready(function($) { $.post('http://ngaoduky.com/wp-admin/admin-ajax.php', {action: 'mts\_view\_count', id: '744'}); });
