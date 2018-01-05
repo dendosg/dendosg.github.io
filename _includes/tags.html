@@ -1,0 +1,11 @@
+<div class="tags">
+  <h1 >Tags:</h1>
+  {% assign listed_posts_urls = page.url | split: ' ' %}
+  <ul class="tag-posts">
+    {% for tag in page.tags %}
+      <p> {{tag}} </p>
+      <p> {% "hellohyhy".gsub(/[aeiou]/, '*') %} </p>
+      <p>sss2222</p>
+    {% endfor %}
+  </ul>
+</div>
