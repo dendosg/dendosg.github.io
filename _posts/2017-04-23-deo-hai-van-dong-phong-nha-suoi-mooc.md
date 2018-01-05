@@ -2,8 +2,8 @@
 layout: post
 title: "[Xuyên Việt] vượt đèo Hải Vân, vào động Phong Nha, nhảy cầu Suối Mọoc"
 author: "Đèn Đỏ"
-categories: journal
-tags: [documentation,sample]
+categories: [Du Ký]
+tags: [Đèo Hải Vân, động Phong Nha, suối Nước Moọc]
 cover: 'https://dendosg.github.io/assets/img/upload/2017/04/GOPR6143.jpg'
 ---
 
