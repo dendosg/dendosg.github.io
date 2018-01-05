@@ -2,12 +2,11 @@
 layout: post
 title: "[Xuyên Việt] Hành trình bắt đầu"
 author: "Đèn Đỏ"
-categories: journal
-tags: [documentation,sample]
+categories: [Du Ký]
+tags: [Xuyên Việt]
 cover: 'https://dendosg.github.io/assets/img/upload/2017/02/featured-xuyen-viet-binh-thuan.jpg'
 ---
 
-![](https://dendosg.github.io/assets/img/upload/2017/02/f-xuyen-viet-binh-thuan.jpg)
 
 5h sáng ngày 02-07-2016, chúng tôi lên đường thực hiện chuyến đi đã được chờ đợi hơn nửa năm trời. Cảm giác vừa háo hức vừa hồi hộp, không nghĩ nó đến nhanh như thế. Vậy là chuyến đi của tôi và thằng bạn tôi đã bắt đầu – 30 ngày chạy xe máy khắp Việt Nam.
 
@@ -20,13 +19,13 @@ Và thế là cái dự định ra đời, trên biển Vũng Tàu :)). Trước
 
 ![](https://dendosg.github.io/assets/img/upload/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang.jpg)
 
-Đầu tư nguyên 1 bộ đồ nghề mà cuối cùng không phải đụng tới.
+*Đầu tư nguyên 1 bộ đồ nghề mà cuối cùng không phải đụng tới.*
 
 Tôi bắt đầu tìm hiểu, lên kế hoạch, chuẩn bị đồ đạc. Và thực sự lên khung sườn kế hoạch  cho 1 chuyến đi là 1 điều luôn làm tôi cảm thấy hạnh phúc. Hơn nữa đây lại là 1 chuyến đi dài, 1 hành trình sẽ rất đáng nhớ, tôi càng háo hứng hơn.
 
 ![](https://dendosg.github.io/assets/img/upload/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-15.jpg)
 
-Ngày đầu tiên của hành trình. Đoạn đường ven biển từ Kê Gà đi Phan Thiết
+*Ngày đầu tiên của hành trình. Đoạn đường ven biển từ Kê Gà đi Phan Thiết*
 
 #### Lộ trình ngày đầu tiên: Sài Gòn – Kê Gà – Phan Thiết – Mũi Né – Bàu Trắng – Tuy Phong (333km). Đây là lộ trình dài nhất trong hành trình Xuyên Việt, do mới ngày đầu nên còn sung sức với cả cũng muốn tiết kiệm thời gian để dành cho mấy điểm phía Bắc (những nơi mà chúng tôi chưa có dịp đặt chân tới).
 
