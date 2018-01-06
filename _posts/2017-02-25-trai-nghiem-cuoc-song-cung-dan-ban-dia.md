@@ -9,7 +9,7 @@ cover: 'https://dendosg.github.io/assets/img/upload/2017/02/dam-mon-khanh-hoa-2.
 
 ### Tiếp tục với chuỗi các bài viết về chuyến Xuyên Việt của minh, bài viết này sẽ viết về cung đường: Tuy Phong (Bình Thuận) – Phan Rang – Vĩnh Hy – Nha Trang – Đầm Môn – Phú Yên.
 
-Xem thêm bài viết trước: [\[Xuyên Việt\] Hành trình bắt đầu](http://ngaoduky.com/bat-dau-hanh-trinh-xuyen-viet/)
+Xem thêm bài viết trước: [\[Xuyên Việt\] Hành trình bắt đầu](http://ngaoduky.com/bat-dau-hanh-trinh-xuyen-viet)
 
 Từ huyện Tuy Phong (Bình Thuận), theo quốc lộ 1A chúng tôi tiến về TP.Phan Rang (Ninh Thuận) trong điều kiện nắng gắt. Người ta thường nói “gió như phan nắng như rang”, nhưng cho đến khi ngồi trên xe máy chạy dọc chạy ngang vùng đất Phan Rang thì tôi mới thực sự thấy được sự khắc nghiệt của thời tiết nơi đây.
 
