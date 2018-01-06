@@ -25,7 +25,7 @@ search: true
 nightMode: true
 
 # Comments
-disqus: true
+disqus: false
 disqus_url: 'https://ngaoduky.disqus.com/embed.js'
 
 # Share
