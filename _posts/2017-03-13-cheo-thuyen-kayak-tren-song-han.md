@@ -6,7 +6,7 @@ categories: [Du Ký]
 tags: [kayak, Đà Nẵng, Sông Hàn, Vạn Buồng]
 cover: 'https://dendosg.github.io/assets/img/upload/2017/03/IMG_0779.jpg'
 ---
-Rời [làng bích họa Tam Thanh](http://ngaoduky.com/lang-bich-hoa-tam-thanh-quang-nam/), chúng mình tiếp tục đi lên Đà Nẵng, cách Tam Thanh 70km. Tới nơi là khoảng 4h chiều, mình tìm đến homestay Sẻ 43 của chị Cá, nằm ở góc ngã 4 Ngô Quyền giao với Chu Huy Mân (Tham khảo thêm thông tin tại [group Facebook @394781157386711](https://www.facebook.com/media/set/?set=oa.460575687473924&type=1)). Chị Cá chủ homestay Sẻ là người vui tính, thân thiện, rất mê du lịch. Chị thường dẫn mọi người ở Sẻ đi tham gia các hoạt động ngoài trời gần Đà Nẵng. Đợt đó mình được chị Cá dẫn đi cắm trại tại 1 thôn ở Quảng Nam, và chèo thuyền kayak trên sông Hàn, sẽ viết chi tiết ở bên dưới.
+Rời [làng bích họa Tam Thanh](http://ngaoduky.com/lang-bich-hoa-tam-thanh-quang-nam), chúng mình tiếp tục đi lên Đà Nẵng, cách Tam Thanh 70km. Tới nơi là khoảng 4h chiều, mình tìm đến homestay Sẻ 43 của chị Cá, nằm ở góc ngã 4 Ngô Quyền giao với Chu Huy Mân (Tham khảo thêm thông tin tại [group Facebook @394781157386711](https://www.facebook.com/media/set/?set=oa.460575687473924&type=1)). Chị Cá chủ homestay Sẻ là người vui tính, thân thiện, rất mê du lịch. Chị thường dẫn mọi người ở Sẻ đi tham gia các hoạt động ngoài trời gần Đà Nẵng. Đợt đó mình được chị Cá dẫn đi cắm trại tại 1 thôn ở Quảng Nam, và chèo thuyền kayak trên sông Hàn, sẽ viết chi tiết ở bên dưới.
 
 1, A La Carte – Chiều tà Đà Nẵng
 --------------------------------
