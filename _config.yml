@@ -40,10 +40,10 @@ postPatterns: 'circuitBoard'
 
 # SNS settings 配置社交网站url: weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  facebook-square: 'https://www.facebook.com/ngaoduky.com'
+  facebook: 'https://www.facebook.com/ngaoduky.com'
   youtube-play: 'https://www.youtube.com/ngaoduky'
   instagram: 'https://www.instagram.com/ngaoduky'
-  twitter-square: 'https://twitter.com/ngaoduky'
+  twitter: 'https://twitter.com/ngaoduky'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
