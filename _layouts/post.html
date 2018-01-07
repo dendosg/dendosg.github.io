@@ -101,7 +101,7 @@
 
 {% include footer.html %}
 
-<script src="/assets/js/social-share.min.js"></script>
+<!-- <script src="/assets/js/social-share.min.js"></script> -->
 <script>
     socialShare('.social-share', {
         sites: [{% for i in site.social-share-items %}'{{ i }}'{% if forloop.last == false %},{% endif %}{% endfor %}],
