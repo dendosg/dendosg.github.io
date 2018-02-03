@@ -11,7 +11,7 @@ cover: 'https://dendosg.github.io/assets/img/upload/2017/02/dam-mon-khanh-hoa-2.
 
 Xem thêm bài viết trước: [\[Xuyên Việt\] Hành trình bắt đầu](http://ngaoduky.com/bat-dau-hanh-trinh-xuyen-viet)
 
-Từ huyện Tuy Phong (Bình Thuận), theo quốc lộ 1A chúng tôi tiến về TP.Phan Rang (Ninh Thuận) trong điều kiện nắng gắt. Người ta thường nói “gió như phan nắng như rang”, nhưng cho đến khi ngồi trên xe máy chạy dọc chạy ngang vùng đất Phan Rang thì tôi mới thực sự thấy được sự khắc nghiệt của thời tiết nơi đây.
+Từ huyện Tuy Phong (Bình Thuận), theo quốc lộ 1A chúng tôi tiến về Tp.Phan Rang (Ninh Thuận) trong điều kiện nắng gắt. Người ta thường nói “gió như phan nắng như rang”, nhưng cho đến khi ngồi trên xe máy chạy dọc chạy ngang vùng đất Phan Rang thì tôi mới thực sự thấy được sự khắc nghiệt của thời tiết nơi đây.
 
 Tới Phan Rang, chúng tôi tìm đến vườn nho Ba Mọi đầu tiên. Đây là trang trại nho rất nổi tiếng ở Ninh Thuận, quy mô rất lớn, có nhiều loại nho mà chỉ có tới đây mình mới được thấy.
 
