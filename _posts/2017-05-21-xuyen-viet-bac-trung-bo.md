@@ -76,7 +76,7 @@ Từ khi hầm Hải Vân đưa vào hoạt động thì phần lớn các phư�
 
 ![Đại Nội - Huế](https://dendosg.github.io/assets/img/upload/2017/05/hue-4.jpg)
 
-Bên ngoài Đại Nội – Huế
+*Bên ngoài Đại Nội – Huế*
 
 ![Đại Nội - Huế](https://dendosg.github.io/assets/img/upload/2017/05/hue-5.jpg) ![Đại Nội - Huế](https://dendosg.github.io/assets/img/upload/2017/05/hue-8.jpg)
 
@@ -112,7 +112,7 @@ Kết thúc 1 ngày dài rong ruổi xe máy, quãng đường di chuyển ngày
 
 ![trên đường tới động Phong Nha](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-quang-binh-21.jpg)
 
-Sáng hôm sau, Dương dẫn chúng tôi đi động Phong Nha
+*Sáng hôm sau, Dương dẫn chúng tôi đi động Phong Nha*
 
 ![đường tới động Phong Nha](https://dendosg.github.io/assets/img/upload/2017/05/IMG_0851.jpg)
 
@@ -149,6 +149,9 @@ Sau khi tham quan động Phong Nha, chúng tôi di chuyển tới suối Nướ
 Đường Hồ Chí Minh nhánh Tây dẫn chúng tôi vào Suối Moọc
 
 Là một khu du lịch ẩn mình giữa núi rừng Phong Nha – Kẻ Bàng, thu hút rất đông khách du lịch trong những ngày hè nóng nực. Cái tên Nước Moọc (tiếng địa phương có nghĩ là nước mọc) bắt nguồn từ việc dòng suối cứ mọc ùn ùn từ dưới lên.
+
+Mình có viết 1 bài giới thiệu về suối Mooc trên blog của Traveloka, bà con có thể vào link này để hiểu rõ hơn về KDL này nha:
+[https://blog.traveloka.com/vn/kha-pha-suoi-nuoc-moc-ngoc-an-minh/](https://blog.traveloka.com/vn/kha-pha-suoi-nuoc-moc-ngoc-an-minh/)
 
 ![cây cầu ở suối Nước Moọc](https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-10.jpg)
 
