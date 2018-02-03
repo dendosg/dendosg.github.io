@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ghé Eo Gió, nếm đặc sản Quảng Ngãi"
+title: "[Xuyên Việt]Ghé Eo Gió, nếm đặc sản Quảng Ngãi"
 author: "Đèn Đỏ"
 categories: [Du Ký]
 tags: [Eo Gió,Quảng Ngãi, Xuyên Việt]
@@ -18,7 +18,7 @@ Dọc theo con đường ven biển, sau vài tiếng chạy xe thì đến trư
 ![thành phố Quy Nhơn](https://dendosg.github.io/assets/img/upload/2017/04/GOPR2273.jpg)
 *Welcome to Quy Nhon city*
 
-Tối 2 thằng chạy ra quảng trường Quy Nhơn, thấy đây có vẻ đông vui và nhiều trò. Già trẻ lớn bé gì đầy đủ ở đây hết, nhìn tụi con nít nó trượt patin mà loạn hết cả mắt. Nhưng mà khoái nhất vẫn là màn nhảy hiphop của 1 đám thánh niên với quần tụt áo thun, họ tập học lắc những động tác thật phi thường (trích lời bài hát Biết Yêu – Thùy Chi, thời trẻ trâu ai xem Bước nhảy xì teen sẽ biết bài này =))). Mình có 1 niềm hứng thú rất lớn đối với nghệ thuật đường phố, đặc biệt là âm nhạc đường phố. Đi tới đâu mà thấy có nhạc sống là phải nhoi tới xem hết mới chịu về. Có đêm ở Đà Lạt đi qua hồ Xuân Hương thấy 1 nhóm đang biểu diễn ngoài trời với guitar + cajon, thế là cũng tấp xe vào ngồi xem. Trời lúc đó đang mưa phùn, lạnh run người, thế mà vẫn ráng ngồi nghe người ta hát. Nghệ thuật đường phố, chủ yếu là vì đam mê, thích là thích chỗ đó.
+Tối 2 thằng chạy ra quảng trường Quy Nhơn, thấy đây có vẻ đông vui và nhiều trò. Già trẻ lớn bé gì đầy đủ ở đây hết, nhìn tụi con nít nó trượt patin mà loạn hết cả mắt. Nhưng mà khoái nhất vẫn là màn nhảy hiphop của 1 đám thánh niên. Mình có 1 niềm hứng thú rất lớn đối với nghệ thuật đường phố, đặc biệt là âm nhạc đường phố. Đi tới đâu mà thấy có nhạc sống là phải nhoi tới xem hết mới chịu về. Có đêm ở Đà Lạt đi qua hồ Xuân Hương thấy 1 nhóm đang biểu diễn ngoài trời với guitar + cajon, thế là cũng tấp xe vào ngồi xem. Trời lúc đó đang mưa phùn, lạnh run người, thế mà vẫn ráng ngồi nghe người ta hát. Nghệ thuật đường phố, chủ yếu là vì đam mê, thích là thích chỗ đó.
 
 ![Bãi biên thành phố Quy Nhơn](https://dendosg.github.io/assets/img/upload/2017/04/bienquynhon.jpg)
 
@@ -46,13 +46,11 @@ Tới Eo Gió thấy có 1 đoàn du lịch đang chụp hình ở dưới, th�
 
 ![Những ngôi nhà ở Eo Gió](https://dendosg.github.io/assets/img/upload/2017/04/G0052551.jpg)
 
+![Đường vào TP.Quảng Ngãi](https://dendosg.github.io/assets/img/upload/2017/04/GOPR2605.jpg)
 *Tới chiều chạy lên Quảng Ngãi, đi qua mấy cánh đồng thấy đất trời rộng bao la đã thật.*
 
-![Đường vào TP.Quảng Ngãi](https://dendosg.github.io/assets/img/upload/2017/04/GOPR2605.jpg)
-
-*Đường vào TP.Quảng Ngãi*
-
 ![Đường vào TP.Quảng Ngãi](https://dendosg.github.io/assets/img/upload/2017/04/GOPR2606.jpg)
+*Đường vào TP.Quảng Ngãi*
 
 Tối vào nhà Kunni Phạm tá túc 1 đêm, được Kunni dẫn đi ăn mấy món đặc sản của Quảng Ngãi. Mà ở Quảng Ngãi cũng ko biết đi đâu ngoài đi ăn cả. Đồ ăn thì nhiều, có bánh bèo , cá nục, don, ram bắp, mít trộn, ốc hút, còn nhiều món lạ mà chưa kịp ăn.
 
