@@ -27,7 +27,7 @@ Tôi bắt đầu tìm hiểu, lên kế hoạch, chuẩn bị đồ đạc. Và
 
 *Ngày đầu tiên của hành trình. Đoạn đường ven biển từ Kê Gà đi Phan Thiết*
 
-#### Lộ trình ngày đầu tiên: Sài Gòn – Kê Gà – Phan Thiết – Mũi Né – Bàu Trắng – Tuy Phong (333km). Đây là lộ trình dài nhất trong hành trình Xuyên Việt, do mới ngày đầu nên còn sung sức với cả cũng muốn tiết kiệm thời gian để dành cho mấy điểm phía Bắc (những nơi mà chúng tôi chưa có dịp đặt chân tới).
+### Lộ trình ngày đầu tiên: Sài Gòn – Kê Gà – Phan Thiết – Mũi Né – Bàu Trắng – Tuy Phong (333km). Đây là lộ trình dài nhất trong hành trình Xuyên Việt, do mới ngày đầu nên còn sung sức với cả cũng muốn tiết kiệm thời gian để dành cho mấy điểm phía Bắc (những nơi mà chúng tôi chưa có dịp đặt chân tới).
 
 Bình Thuận cảnh cũ đường quen, nên chưa có gì mới lạ. Ngày này đi mục đích cũng chỉ đơn giản là nhìn ngắm cung đường ven biển. Xem thêm: [Đến Bình Thuận thì đi đâu?](http://ngaoduky.com/di-dau-binh-thuan) để biết Bình Thuận có gì nhé.
 
@@ -38,7 +38,6 @@ Chiều dừng ở bãi đá Ông Địa gần Mũi Né, có gặp 1 chú chạy
 -Chậc chậc. Chú giờ muốn đi như vậy mà không thể, vướng nhiều thứ lắm cháu.  
 Thế đó, xăng đang rẻ, tuổi còn trẻ, tóc vẫn xanh, máu thì nóng nên tôi sẽ tranh thủ đi lung tung khi còn có thể để sau này không phải tiếc nuối.
 
-#### Video cung đường ven biển chúng tôi đi ngày đầu tiên:
 
 #### Một số hình ảnh ngày đầu tiên
 
