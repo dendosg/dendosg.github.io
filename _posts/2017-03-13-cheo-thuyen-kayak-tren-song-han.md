@@ -48,7 +48,7 @@ Khác với hôm qua là đứng trên A La Carte nhìn xuống, thì hôm nay l
 
 ![chèo kayak trên sông Hàn](https://dendosg.github.io/assets/img/upload/2017/03/G0143243.jpg)
 
-Vui nhất là chèo kayak đi xuyên qua dòng nước mà con cá chép hóa rồng đang phun ra. Đến lúc này thì thằng bạn mình đã hết đồ để mặc, còn bộ cuối cùng thì cũng ướt luôn do mình cố chèo cho thuyền lao vào dòng nước đang chảy xuống :)))Chấp nhận thôi, hướng di chuyển do thằng ngồi sau quyết định mà =)).
+Vui nhất là chèo kayak đi xuyên qua dòng nước mà con cá chép hóa rồng đang phun ra
 
 ![chèo kayak trên sông Hàn](https://dendosg.github.io/assets/img/upload/2017/03/G0133227.jpg)
 
