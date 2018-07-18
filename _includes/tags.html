@@ -1,11 +1,14 @@
-<div class="tags">
-  <h1 >Tags:</h1>
-  {% assign listed_posts_urls = page.url | split: ' ' %}
-  <ul class="tag-posts">
-    {% for tag in page.tags %}
-      <p> {{tag}} </p>
-      <p> {% "hellohyhy".gsub(/[aeiou]/, '*') %} </p>
-      <p>sss2222</p>
-    {% endfor %}
-  </ul>
-</div>
+<section>
+    {% if page.tags %}
+    <div>
+        Tag: {% for tag in page.tags %} {% for site_tag in site.tags_config %} {% if tag == site_tag.name %}
+        <a href="{{ site.site_url }}/tag/{{ site_tag.slug }}" >{{ tag }}</a>
+        {% endif %} {% endfor %} {% endfor %}
+    </div>
+    <div>
+        Category: {% for category in page.categories %} {% for site_category in site.category_configs %} {% if category == site_category.name
+        %}
+        <a href="{{ site.site_url }}/{{ site_category.url }}" >{{ category }}</a>, {% endif %} {% endfor %} {% endfor %}
+    </div>
+    {% endif %}
+</section>

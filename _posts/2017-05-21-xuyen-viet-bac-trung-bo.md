@@ -2,7 +2,7 @@
 layout: post
 title: "[Xuyên Việt] Bắc Trung Bộ"
 author: "Đèn Đỏ"
-categories: journal
+categories: [Xuyên Việt,Du Ký]
 tags: [Bắc Trung Bộ, Xuyên Việt]
 cover: 'https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-3.jpg'
 ---

@@ -1,99 +1,37 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Phú Yên 2017 - Chuyến đi ẩm ướt - NGAO DU KÝ - Nhật Ký Ngao Du</title>
-    <meta name="author"  content="Đèn Đỏ">
-    <meta name="description" content="Phú Yên 2017 - Chuyến đi ẩm ướt">
-    <meta name="keywords"  content="Phú Yên, Mũi Điện, Bãi Môn, Tuy Hòa">
-    <!-- Open Graph -->
-    <meta property="og:title" content="Phú Yên 2017 - Chuyến đi ẩm ướt - NGAO DU KÝ - Nhật Ký Ngao Du">
-    <meta property="og:image" content="https://dendosg.github.io/assets/img/upload/2017/02/Featured-phu-yen-2017.jpg">
-    <meta property="og:image:type" content="image/jpeg" />
-    <meta property="og:image:width" content="720" />
-    <meta property="og:image:height" content="378" />
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="http://localhost:4000/tro-lai-phu-yen-2017">
-    <meta property="og:description" content="Blog viết linh tinh về du lịch và những thứ khác">
-    <meta property="og:site_name" content="NGAO DU KÝ - Nhật Ký Ngao Du">
-    <meta property="fb:app_id" content="249127368869539" />
-    
-<!--  Thay thế cho font Roboto    -->
-    <style>
-    /* cyrillic-ext */
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v18/ek4gzZ-GeXAPcSbHtCeQI_esZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
-  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
-}
-/* cyrillic */
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v18/mErvLBYg_cXG3rLvUsKT_fesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
-  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
-}
-/* greek-ext */
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v18/-2n2p-_Y08sg57CNWQfKNvesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
-  unicode-range: U+1F00-1FFF;
-}
-/* greek */
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v18/u0TOpm082MNkS5K0Q4rhqvesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
-  unicode-range: U+0370-03FF;
-}
-/* vietnamese */
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v18/NdF9MtnOpLzo-noMoG0miPesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
-  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
-}
-/* latin-ext */
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v18/Fcx7Wwv8OzT71A3E1XOAjvesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v18/CWB0XYA8bzo0kSThX0UTuA.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2212, U+2215;
-}
-        
-    </style>
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-    
-    <link rel="stylesheet" href="//cdn.staticfile.org/normalize/6.0.0/normalize.min.css">
-    <link rel="stylesheet" href="//at.alicdn.com/t/font_roc50gemkxpw4s4i.css">
-    <link rel="stylesheet" href="/assets/css/github-markdown.css">
-    <link rel="stylesheet" href="/assets/css/prism.css">
-    <link rel="stylesheet" href="/assets/css/share.min.css">
-    <link rel="stylesheet" href="/assets/css/app.min.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Phú Yên 2017 - Chuyến đi ẩm ướt - NGAO DU KÝ - Nhật Ký Ngao Du</title>
+  <meta name="author" content="Đèn Đỏ">
+  <meta name="description" content="Phú Yên 2017 - Chuyến đi ẩm ướt">
+  <meta name="keywords" content="Mũi Điện, Tuy Hòa, Phú Yên">
+  <!-- Open Graph -->
+  <meta property="og:title" content="Phú Yên 2017 - Chuyến đi ẩm ướt - NGAO DU KÝ - Nhật Ký Ngao Du">
+  <meta property="og:image" content="https://dendosg.github.io/assets/img/upload/2017/02/Featured-phu-yen-2017.jpg">
+  <meta property="og:image:type" content="image/jpeg" />
+  <meta property="og:image:width" content="720" />
+  <meta property="og:image:height" content="378" />
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="http://localhost:4000/tro-lai-phu-yen-2017">
+  <meta property="og:description" content="Blog viết linh tinh về du lịch và những thứ khác">
+  <meta property="og:site_name" content="NGAO DU KÝ - Nhật Ký Ngao Du">
+  <meta property="fb:app_id" content="249127368869539" />
+
+  <link rel="stylesheet" href="/assets/css/font-roboto.css">
+  <link rel="stylesheet" href="/assets/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/assets/css/normalize.min.css">
+  <link rel="stylesheet" href="/assets/css/font_roc50gemkxpw4s4i.css">
+  <link rel="stylesheet" href="/assets/css/github-markdown.css">
+  <link rel="stylesheet" href="/assets/css/prism.css">
+  <link rel="stylesheet" href="/assets/css/share.min.css">
+  <link rel="stylesheet" href="/assets/css/app.min.css">
 </head>
 
 <body>
 
-<input id="nm-switch" type="hidden" value="false">
-
-<header class="g-header">
+    <input id="nm-switch" type="hidden" value="false"> <header class="g-header">
     <div class="g-logo">
       <a href="/"></a>
     </div>
@@ -103,8 +41,6 @@
             
             <li><a href="/">home</a></li>
             
-            <li><a href="/tags.html">tags</a></li>
-            
             <li><a href="/about.html">about</a></li>
             
         </ul>
@@ -112,26 +48,29 @@
 </header>
 
 
-<header class="g-banner post-header post-pattern-circuitBoard bgcolor-default " data-theme="default">
-    <div class="post-wrapper">
-        <div class="post-tags">
-            
-            
-            <a href="http://localhost:4000/tags#Ph%C3%BA%20Y%C3%AAn" class="post-tag">Phú Yên</a>
-            
-            <a href="http://localhost:4000/tags#M%C5%A9i%20%C4%90i%E1%BB%87n" class="post-tag">Mũi Điện</a>
-            
-            <a href="http://localhost:4000/tags#B%C3%A3i%20M%C3%B4n" class="post-tag">Bãi Môn</a>
-            
-            <a href="http://localhost:4000/tags#Tuy%20H%C3%B2a" class="post-tag">Tuy Hòa</a>
-            
-            
-        </div>
-        <h1>Phú Yên 2017 - Chuyến đi ẩm ướt</h1>
-        <div class="post-meta">
-            <span class="post-meta-item"><i class="iconfont icon-author"></i><a href="http://localhost:4000" target="_blank" rel="author">Đèn Đỏ</a></></span>
-            <time class="post-meta-item" datetime="17-02-17"><i class="iconfont icon-date"></i>17 Feb 2017</time>
-            
+    <header class="g-banner post-header post-pattern-circuitBoard bgcolor-default "
+        data-theme="default">
+        <div class="post-wrapper">
+            <div class="post-tags">
+                           
+                <a href=/tag/mui-dien class="post-tag">Mũi Điện</a>
+                                                        
+                <a href=/tag/tuy-hoa class="post-tag">Tuy Hòa</a>
+                                                        
+                <a href=/tag/phu-yen class="post-tag">Phú Yên</a>
+                                                     
+            </div>
+
+            <h1>Phú Yên 2017 - Chuyến đi ẩm ướt</h1>
+            <div class="post-meta">
+                <span class="post-meta-item">
+                    <i class="iconfont icon-author"></i>
+                    <a href="http://localhost:4000" target="_blank" rel="author">Đèn Đỏ</a>
+                    </>
+                </span>
+                <time class="post-meta-item" datetime=" 17-02-17 ">
+                    <i class="iconfont icon-date"></i>17 Feb 2017</time>
+                
 
 
   
@@ -140,18 +79,18 @@
   
 
 
+            </div>
         </div>
-    </div>
-    
-    <div class="filter"></div>
-    <div class="post-cover" style="background: url('https://dendosg.github.io/assets/img/upload/2017/02/Featured-phu-yen-2017.jpg') center no-repeat; background-size: cover;">
-    
-</header>
+        
+        <div class="filter"></div>
+        <div class="post-cover" style="background: url('https://dendosg.github.io/assets/img/upload/2017/02/Featured-phu-yen-2017.jpg') center no-repeat; background-size: cover;">
+            
+    </header>
 
-<div class="post-content">
-    
-    <article class="markdown-body">
-        <p>Trong đợt tết 2017 vừa rồi mình lại có dịp đến Phú Yên cùng đồng bọn, 2 năm liên tiếp đi Phú Yên vào dịp tết =)) Lý do là không biết đi đâu khác nữa haha.</p>
+    <div class="post-content">
+        
+        <article class="markdown-body">
+            <p>Trong đợt tết 2017 vừa rồi mình lại có dịp đến Phú Yên cùng đồng bọn, 2 năm liên tiếp đi Phú Yên vào dịp tết =)) Lý do là không biết đi đâu khác nữa haha.</p>
 
 <p><img src="https://dendosg.github.io/assets/img/upload/2017/02/du-ky-phu-yen-34.jpg" alt="" /></p>
 
@@ -186,112 +125,135 @@
 
 <p>Nếu bạn đang lên kế hoạch ngao du Phú Yên và cần hỗ trợ thì hãy comment bên dưới nhé, mình sẽ giúp đỡ bạn trong khả năng của mình. Cảm ơn đã đọc hết bài.</p>
 
-
-    </article>
+ <section>
     
-    <div class="social-share-wrapper">
-        <div class="social-share"></div>
+    <div>
+        Tag:           
+        <a href="/tag/mui-dien" >Mũi Điện</a>
+                                                
+        <a href="/tag/tuy-hoa" >Tuy Hòa</a>
+                                                
+        <a href="/tag/phu-yen" >Phú Yên</a>
+                                            
+    </div>
+    <div>
+        Category:       
+        <a href="/du-ky" >Du Ký</a>,     
     </div>
     
-</div>
-
-<section class="author-detail">
-    <section class="post-footer-item author-card">
-        <div class="avatar">
-            <img src="/assets/img/profile.png" alt="">
-        </div>
-        <div class="author-name" rel="author">Đèn Đỏ</div>
-        <div class="bio">
-            <p>Gã mơ</p>
-        </div>
-        
-        <ul class="sns-links">
-            
-            <li>
-                <a href="https://www.facebook.com/ngaoduky.com" target="_blank">
-                    <i class="fa fa-facebook" aria-hidden="true"></i>
-                </a>
-            </li>
-            
-            <li>
-                <a href="https://www.youtube.com/ngaoduky" target="_blank">
-                    <i class="fa fa-youtube-play" aria-hidden="true"></i>
-                </a>
-            </li>
-            
-            <li>
-                <a href="https://www.instagram.com/ngaoduky" target="_blank">
-                    <i class="fa fa-instagram" aria-hidden="true"></i>
-                </a>
-            </li>
-            
-            <li>
-                <a href="https://twitter.com/ngaoduky" target="_blank">
-                    <i class="fa fa-twitter" aria-hidden="true"></i>
-                </a>
-            </li>
-            
-        </ul>
-        
-    </section>
-    <section class="post-footer-item read-next">
-        
-        <div class="read-next-item">
-            <a href="/bat-dau-hanh-trinh-xuyen-viet" class="read-next-link"></a>
-            <section>
-                <span>[Xuyên Việt] Hành trình bắt đầu</span>
-                <p>5h sáng ngày 02-07-2016, chúng tôi lên đường thực hiện ch...</p>
-            </section>
-            
-            <div class="filter"></div>
-            <img src="https://dendosg.github.io/assets/img/upload/2017/02/featured-xuyen-viet-binh-thuan.jpg" alt="">
-            
-        </div>
-        
-        
-        <div class="read-next-item">
-            <a href="/phu-yen-2016" class="read-next-link"></a>
-            <section>
-                <span>Phú Yên 2016 – Phủi bụi ổ cứng</span>
-                <p>Năm mới ngồi lục đống ảnh cũ ra đăng, lâu giờ mình không ...</p>
-            </section>
-            
-            <div class="filter"></div>
-            <img src="https://dendosg.github.io/assets/img/upload/2017/02/du-ky-phu-yen-22.jpg" alt="">
-            
-        </div>
-        
-    </section>
-    
 </section>
+        </article>
 
-<footer class="g-footer">
+
+    </div>
+
+    <section class="author-detail">
+        <section class="post-footer-item author-card">
+            <div class="avatar">
+                <img src="https://graph.facebook.com/100003474639175/picture?width=320&height=320" alt="">
+            </div>
+            <div class="author-name" rel="author">Đèn Đỏ</div>
+            <div class="bio">
+                <p>Gã mơ</p>
+            </div>
+            
+            <ul class="sns-links">
+                
+                <li>
+                    <a href="https://www.facebook.com/ngaoduky.com" target="_blank">
+                        <i class="fa fa-facebook" aria-hidden="true"></i>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="https://www.youtube.com/ngaoduky" target="_blank">
+                        <i class="fa fa-youtube-play" aria-hidden="true"></i>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="https://www.instagram.com/ngaoduky" target="_blank">
+                        <i class="fa fa-instagram" aria-hidden="true"></i>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="https://twitter.com/ngaoduky" target="_blank">
+                        <i class="fa fa-twitter" aria-hidden="true"></i>
+                    </a>
+                </li>
+                
+            </ul>
+            
+
+
+        </section>
+
+        <section class="post-footer-item read-next">
+            
+            <div class="read-next-item">
+                <a href="/bat-dau-hanh-trinh-xuyen-viet" class="read-next-link"></a>
+                <section>
+                    <span>[Xuyên Việt] Hành trình bắt đầu</span>
+                    <p>5h sáng ngày 02-07-2016, chúng tôi lên đường thực hiện ch...</p>
+                </section>
+                
+                <div class="filter"></div>
+                <img src="https://dendosg.github.io/assets/img/upload/2017/02/featured-xuyen-viet-binh-thuan.jpg" alt=""> 
+            </div>
+             
+            <div class="read-next-item">
+                <a href="/phu-yen-2016" class="read-next-link"></a>
+                <section>
+                    <span>Phú Yên 2016 – Phủi bụi ổ cứng</span>
+                    <p>Năm mới ngồi lục đống ảnh cũ ra đăng, lâu giờ mình không ...</p>
+                </section>
+                
+                <div class="filter"></div>
+                <img src="https://dendosg.github.io/assets/img/upload/2017/02/du-ky-phu-yen-22.jpg" alt=""> 
+            </div>
+            
+        </section>
+
+
+
+        
+
+
+
+
+    </section>
+
+    <footer class="g-footer">
     <section>NGAO DU KÝ - Nhật Ký Ngao Du © 2018</section>
 </footer>
 
 
 
-<script>
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-/*
-var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-*/
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-/*写入自己的disqus信息*/
-s.src = '';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
-<script src="/assets/js/prism.js"></script>
-<script src="/assets/js/index.min.js"></script>
+    <script>
+        /**
+        *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+        *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+        /*
+        var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+        };
+        */
+        (function () { // DON'T EDIT BELOW THIS LINE
+            var d = document, s = d.createElement('script');
+            /*写入自己的disqus信息*/
+            s.src = '';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the
+        <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+    </noscript>
+    <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+    <script src="/assets/js/prism.js"></script>
+    <script src="/assets/js/index.min.js"></script>
 </body>
+
 </html>

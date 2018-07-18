@@ -2,21 +2,21 @@
 title: 'NGAO DU KÝ - Nhật Ký Ngao Du'
 description: 'Blog viết linh tinh về du lịch và những thứ khác'
 url: 'http://ngaoduky.com' # your host
-permalink:           /:title
+permalink:    /:title
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
 
 # Navigation links
 nav:
   home: '/'
-  tags: '/tags.html'
   about: '/about.html'
 
 # Author
-author: 'Đèn Đỏ'
-nickname: 'dendo30s'
+author: 'Xuân Huy'
+nickname: 'xuanhuyjs'
 bio: 'Gã mơ'
-avatar: '/assets/img/profile.png'
+# avatar: '/assets/img/profile.png'
+avatar: https://graph.facebook.com/100003474639175/picture?width=320&height=320
 
 # Search
 search: true
@@ -28,10 +28,9 @@ nightMode: false
 disqus: false
 disqus_url: ''
 
-# Share
-social-share: true
 
-
+# Keywords of site
+keyword: 'Ngao Du Ký, Blog Du Lịch'
 # theme color 主题皮肤
 theme-color: 'default'  # pink or default
 
@@ -64,3 +63,85 @@ RSS: false
 
 # Plugins
 gems: [jekyll-paginate]
+
+# Home Banner 
+home-title: ngaoduky
+home-description: viết linh tinh
+
+# Tag config
+tags_config:
+  -
+    slug: nha-trang
+    name: Nha Trang
+  -
+    slug: xuyen-viet
+    name: Xuyên Việt 
+  -
+    slug: phu-yen
+    name: Phú Yên
+  -
+    slug: tuy-hoa
+    name: Tuy Hòa
+  -
+    slug: mui-dien
+    name: Mũi Điện
+  -
+    slug: binh-thuan
+    name: Bình Thuận   
+  -
+    slug: vinh-hy
+    name: Vĩnh Hy
+  -
+    slug: phan-rang
+    name: Phan Rang
+  -
+    slug: tuy-phong
+    name: Tuy Phong   
+  -
+    slug: ta-nang
+    name: Tà Năng  
+  -
+    slug: phan-dung
+    name: Phan Dũng
+  -
+    slug: trekking
+    name: Trekking  
+  -
+    slug: bich-hoa
+    name: Bích Họa
+  -
+    slug: tam-thanh
+    name: Tam Thanh
+  -
+    slug: quang-nam
+    name: Quảng Nam      
+  -
+    slug: kayak
+    name: Kayak
+  -
+    slug: da-nang
+    name: Đà Nẵng 
+  -
+    slug: song-han
+    name: Sông Hàn
+  -
+    slug: van-buong
+    name: Vạn Buồng   
+  -
+    slug: dak-lak
+    name: Đắk Lắk    
+    
+# Category config 
+category_configs:
+  -
+    url: kinh-nghiem
+    name: Kinh Nghiệm
+  -
+    url: ngao-du-ky
+    name: Ngao du ký     
+  -
+    url: du-ky
+    name: Du Ký
+  -
+    url: xuyen-viet
+    name: Xuyên Việt  

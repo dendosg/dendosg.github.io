@@ -1,99 +1,37 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Xuyên Việt] Bắc Trung Bộ - NGAO DU KÝ - Nhật Ký Ngao Du</title>
-    <meta name="author"  content="Đèn Đỏ">
-    <meta name="description" content="[Xuyên Việt] Bắc Trung Bộ">
-    <meta name="keywords"  content="Bắc Trung Bộ, Xuyên Việt">
-    <!-- Open Graph -->
-    <meta property="og:title" content="[Xuyên Việt] Bắc Trung Bộ - NGAO DU KÝ - Nhật Ký Ngao Du">
-    <meta property="og:image" content="https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-3.jpg">
-    <meta property="og:image:type" content="image/jpeg" />
-    <meta property="og:image:width" content="720" />
-    <meta property="og:image:height" content="378" />
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="http://localhost:4000/xuyen-viet-bac-trung-bo">
-    <meta property="og:description" content="Blog viết linh tinh về du lịch và những thứ khác">
-    <meta property="og:site_name" content="NGAO DU KÝ - Nhật Ký Ngao Du">
-    <meta property="fb:app_id" content="249127368869539" />
-    
-<!--  Thay thế cho font Roboto    -->
-    <style>
-    /* cyrillic-ext */
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v18/ek4gzZ-GeXAPcSbHtCeQI_esZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
-  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
-}
-/* cyrillic */
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v18/mErvLBYg_cXG3rLvUsKT_fesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
-  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
-}
-/* greek-ext */
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v18/-2n2p-_Y08sg57CNWQfKNvesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
-  unicode-range: U+1F00-1FFF;
-}
-/* greek */
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v18/u0TOpm082MNkS5K0Q4rhqvesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
-  unicode-range: U+0370-03FF;
-}
-/* vietnamese */
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v18/NdF9MtnOpLzo-noMoG0miPesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
-  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
-}
-/* latin-ext */
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v18/Fcx7Wwv8OzT71A3E1XOAjvesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v18/CWB0XYA8bzo0kSThX0UTuA.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2212, U+2215;
-}
-        
-    </style>
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-    
-    <link rel="stylesheet" href="//cdn.staticfile.org/normalize/6.0.0/normalize.min.css">
-    <link rel="stylesheet" href="//at.alicdn.com/t/font_roc50gemkxpw4s4i.css">
-    <link rel="stylesheet" href="/assets/css/github-markdown.css">
-    <link rel="stylesheet" href="/assets/css/prism.css">
-    <link rel="stylesheet" href="/assets/css/share.min.css">
-    <link rel="stylesheet" href="/assets/css/app.min.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>[Xuyên Việt] Bắc Trung Bộ - NGAO DU KÝ - Nhật Ký Ngao Du</title>
+  <meta name="author" content="Đèn Đỏ">
+  <meta name="description" content="[Xuyên Việt] Bắc Trung Bộ">
+  <meta name="keywords" content="Bắc Trung Bộ, Xuyên Việt">
+  <!-- Open Graph -->
+  <meta property="og:title" content="[Xuyên Việt] Bắc Trung Bộ - NGAO DU KÝ - Nhật Ký Ngao Du">
+  <meta property="og:image" content="https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-3.jpg">
+  <meta property="og:image:type" content="image/jpeg" />
+  <meta property="og:image:width" content="720" />
+  <meta property="og:image:height" content="378" />
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="http://localhost:4000/xuyen-viet-bac-trung-bo">
+  <meta property="og:description" content="Blog viết linh tinh về du lịch và những thứ khác">
+  <meta property="og:site_name" content="NGAO DU KÝ - Nhật Ký Ngao Du">
+  <meta property="fb:app_id" content="249127368869539" />
+
+  <link rel="stylesheet" href="/assets/css/font-roboto.css">
+  <link rel="stylesheet" href="/assets/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/assets/css/normalize.min.css">
+  <link rel="stylesheet" href="/assets/css/font_roc50gemkxpw4s4i.css">
+  <link rel="stylesheet" href="/assets/css/github-markdown.css">
+  <link rel="stylesheet" href="/assets/css/prism.css">
+  <link rel="stylesheet" href="/assets/css/share.min.css">
+  <link rel="stylesheet" href="/assets/css/app.min.css">
 </head>
 
 <body>
 
-<input id="nm-switch" type="hidden" value="false">
-
-<header class="g-header">
+    <input id="nm-switch" type="hidden" value="false"> <header class="g-header">
     <div class="g-logo">
       <a href="/"></a>
     </div>
@@ -103,8 +41,6 @@
             
             <li><a href="/">home</a></li>
             
-            <li><a href="/tags.html">tags</a></li>
-            
             <li><a href="/about.html">about</a></li>
             
         </ul>
@@ -112,22 +48,25 @@
 </header>
 
 
-<header class="g-banner post-header post-pattern-circuitBoard bgcolor-default " data-theme="default">
-    <div class="post-wrapper">
-        <div class="post-tags">
-            
-            
-            <a href="http://localhost:4000/tags#B%E1%BA%AFc%20Trung%20B%E1%BB%99" class="post-tag">Bắc Trung Bộ</a>
-            
-            <a href="http://localhost:4000/tags#Xuy%C3%AAn%20Vi%E1%BB%87t" class="post-tag">Xuyên Việt</a>
-            
-            
-        </div>
-        <h1>[Xuyên Việt] Bắc Trung Bộ</h1>
-        <div class="post-meta">
-            <span class="post-meta-item"><i class="iconfont icon-author"></i><a href="http://localhost:4000" target="_blank" rel="author">Đèn Đỏ</a></></span>
-            <time class="post-meta-item" datetime="17-05-21"><i class="iconfont icon-date"></i>21 May 2017</time>
-            
+    <header class="g-banner post-header post-pattern-circuitBoard bgcolor-default "
+        data-theme="default">
+        <div class="post-wrapper">
+            <div class="post-tags">
+                                                               
+                <a href=/tag/xuyen-viet class="post-tag">Xuyên Việt</a>
+                                                       
+            </div>
+
+            <h1>[Xuyên Việt] Bắc Trung Bộ</h1>
+            <div class="post-meta">
+                <span class="post-meta-item">
+                    <i class="iconfont icon-author"></i>
+                    <a href="http://localhost:4000" target="_blank" rel="author">Đèn Đỏ</a>
+                    </>
+                </span>
+                <time class="post-meta-item" datetime=" 17-05-21 ">
+                    <i class="iconfont icon-date"></i>21 May 2017</time>
+                
 
 
   
@@ -136,18 +75,18 @@
   
 
 
+            </div>
         </div>
-    </div>
-    
-    <div class="filter"></div>
-    <div class="post-cover" style="background: url('https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-3.jpg') center no-repeat; background-size: cover;">
-    
-</header>
+        
+        <div class="filter"></div>
+        <div class="post-cover" style="background: url('https://dendosg.github.io/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-3.jpg') center no-repeat; background-size: cover;">
+            
+    </header>
 
-<div class="post-content">
-    
-    <article class="markdown-body">
-        <p><strong>Bắc Trung Bộ là vùng đất của các di tích lịch sử: các lăng tẩm vua chúa ở Huế, thành cổ Quảng Trị và cầu Hiền Lương, tượng đài mẹ Suốt ở Quảng Bình, ngã ba Đồng Lộc ở Hà Tĩnh, khu di tích Kim Liên gắn liền với tuổi thơ của Bác Hồ. Bên cạnh đó cũng có không ít danh lam thắng cảnh gây ấn tượng mạnh cho chúng tôi trong chuyến đi này, có thể kể đến là đèo Hải Vân, bãi biển Lăng Cô, động Phong Nha. </strong></p>
+    <div class="post-content">
+        
+        <article class="markdown-body">
+            <p><strong>Bắc Trung Bộ là vùng đất của các di tích lịch sử: các lăng tẩm vua chúa ở Huế, thành cổ Quảng Trị và cầu Hiền Lương, tượng đài mẹ Suốt ở Quảng Bình, ngã ba Đồng Lộc ở Hà Tĩnh, khu di tích Kim Liên gắn liền với tuổi thơ của Bác Hồ. Bên cạnh đó cũng có không ít danh lam thắng cảnh gây ấn tượng mạnh cho chúng tôi trong chuyến đi này, có thể kể đến là đèo Hải Vân, bãi biển Lăng Cô, động Phong Nha. </strong></p>
 
 <h2 id="1-đèo-hải-vân">1, Đèo Hải Vân</h2>
 
@@ -356,100 +295,132 @@
 
 <p><em>Xung quanh là lũy tre xanh, có hàng rào dâm bụt, những khu vườn xanh mướt bao quanh.</em></p>
 
-
-    </article>
+ <section>
     
-    <div class="social-share-wrapper">
-        <div class="social-share"></div>
+    <div>
+        Tag:                                               
+        <a href="/tag/xuyen-viet" >Xuyên Việt</a>
+                                              
+    </div>
+    <div>
+        Category:         
+        <a href="/xuyen-viet" >Xuyên Việt</a>,         
+        <a href="/du-ky" >Du Ký</a>,     
     </div>
     
-</div>
-
-<section class="author-detail">
-    <section class="post-footer-item author-card">
-        <div class="avatar">
-            <img src="/assets/img/profile.png" alt="">
-        </div>
-        <div class="author-name" rel="author">Đèn Đỏ</div>
-        <div class="bio">
-            <p>Gã mơ</p>
-        </div>
-        
-        <ul class="sns-links">
-            
-            <li>
-                <a href="https://www.facebook.com/ngaoduky.com" target="_blank">
-                    <i class="fa fa-facebook" aria-hidden="true"></i>
-                </a>
-            </li>
-            
-            <li>
-                <a href="https://www.youtube.com/ngaoduky" target="_blank">
-                    <i class="fa fa-youtube-play" aria-hidden="true"></i>
-                </a>
-            </li>
-            
-            <li>
-                <a href="https://www.instagram.com/ngaoduky" target="_blank">
-                    <i class="fa fa-instagram" aria-hidden="true"></i>
-                </a>
-            </li>
-            
-            <li>
-                <a href="https://twitter.com/ngaoduky" target="_blank">
-                    <i class="fa fa-twitter" aria-hidden="true"></i>
-                </a>
-            </li>
-            
-        </ul>
-        
-    </section>
-    <section class="post-footer-item read-next">
-        
-        
-        <div class="read-next-item">
-            <a href="/ta-nang-phan-dung" class="read-next-link"></a>
-            <section>
-                <span>[Trekking] Tà Năng – Phan Dũng</span>
-                <p>Tà Năng – Phan Dũng là một cung trekking đã hút hồn dân đ...</p>
-            </section>
-            
-            <div class="filter"></div>
-            <img src="https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-3.jpg" alt="">
-            
-        </div>
-        
-    </section>
-    
 </section>
+        </article>
 
-<footer class="g-footer">
+
+    </div>
+
+    <section class="author-detail">
+        <section class="post-footer-item author-card">
+            <div class="avatar">
+                <img src="https://graph.facebook.com/100003474639175/picture?width=320&height=320" alt="">
+            </div>
+            <div class="author-name" rel="author">Đèn Đỏ</div>
+            <div class="bio">
+                <p>Gã mơ</p>
+            </div>
+            
+            <ul class="sns-links">
+                
+                <li>
+                    <a href="https://www.facebook.com/ngaoduky.com" target="_blank">
+                        <i class="fa fa-facebook" aria-hidden="true"></i>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="https://www.youtube.com/ngaoduky" target="_blank">
+                        <i class="fa fa-youtube-play" aria-hidden="true"></i>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="https://www.instagram.com/ngaoduky" target="_blank">
+                        <i class="fa fa-instagram" aria-hidden="true"></i>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="https://twitter.com/ngaoduky" target="_blank">
+                        <i class="fa fa-twitter" aria-hidden="true"></i>
+                    </a>
+                </li>
+                
+            </ul>
+            
+
+
+        </section>
+
+        <section class="post-footer-item read-next">
+            
+            <div class="read-next-item">
+                <a href="/thac-draynur" class="read-next-link"></a>
+                <section>
+                    <span>Lên cao nguyên chiêm ngưỡng thác Draynur kỳ vĩ</span>
+                    <p>Tây Nguyên, miền đất đỏ bazan với bạn ngàn cà phê và cao ...</p>
+                </section>
+                
+                <div class="filter"></div>
+                <img src="assets/img/upload/2017/06/thac-draynur/thac-draynur-0.jpg" alt=""> 
+            </div>
+             
+            <div class="read-next-item">
+                <a href="/ta-nang-phan-dung" class="read-next-link"></a>
+                <section>
+                    <span>[Trekking] Tà Năng – Phan Dũng</span>
+                    <p>Tà Năng – Phan Dũng là một cung trekking đã hút hồn dân đ...</p>
+                </section>
+                
+                <div class="filter"></div>
+                <img src="https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-3.jpg" alt=""> 
+            </div>
+            
+        </section>
+
+
+
+        
+
+
+
+
+    </section>
+
+    <footer class="g-footer">
     <section>NGAO DU KÝ - Nhật Ký Ngao Du © 2018</section>
 </footer>
 
 
 
-<script>
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-/*
-var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-*/
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-/*写入自己的disqus信息*/
-s.src = '';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
-<script src="/assets/js/prism.js"></script>
-<script src="/assets/js/index.min.js"></script>
+    <script>
+        /**
+        *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+        *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+        /*
+        var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+        };
+        */
+        (function () { // DON'T EDIT BELOW THIS LINE
+            var d = document, s = d.createElement('script');
+            /*写入自己的disqus信息*/
+            s.src = '';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the
+        <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+    </noscript>
+    <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+    <script src="/assets/js/prism.js"></script>
+    <script src="/assets/js/index.min.js"></script>
 </body>
+
 </html>

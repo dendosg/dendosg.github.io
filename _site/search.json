@@ -1,6 +1,12 @@
 [
   
     {
+      "title"    : "Lên cao nguyên chiêm ngưỡng thác Draynur kỳ vĩ",
+      "tags"     : "Đắk Lắk",
+      "url"      : "/thac-draynur"
+    } ,
+  
+    {
       "title"    : "[Xuyên Việt] Bắc Trung Bộ",
       "tags"     : "Bắc Trung Bộ Xuyên Việt",
       "url"      : "/xuyen-viet-bac-trung-bo"
@@ -14,7 +20,7 @@
   
     {
       "title"    : "[Xuyên Việt] Ghé làng bích họa Tam Thanh – Quảng Nam",
-      "tags"     : "bích họa Tam Thanh Quảng Nam",
+      "tags"     : "Bích Họa Tam Thanh Quảng Nam",
       "url"      : "/lang-bich-hoa-tam-thanh-quang-nam"
     } ,
   
@@ -26,7 +32,7 @@
   
     {
       "title"    : "[Xuyên Việt] Chèo thuyền Kayak trên sông Hàn, cắm trại thôn Vạn Buồng",
-      "tags"     : "kayak Đà Nẵng Sông Hàn Vạn Buồng",
+      "tags"     : "Kayak Đà Nẵng Sông Hàn Vạn Buồng",
       "url"      : "/cheo-thuyen-kayak-tren-song-han"
     } ,
   
@@ -44,13 +50,13 @@
   
     {
       "title"    : "[Xuyên Việt] Hành trình bắt đầu",
-      "tags"     : "Xuyên Việt",
+      "tags"     : "Bình Thuận",
       "url"      : "/bat-dau-hanh-trinh-xuyen-viet"
     } ,
   
     {
       "title"    : "Phú Yên 2017 - Chuyến đi ẩm ướt",
-      "tags"     : "Phú Yên Mũi Điện Bãi Môn Tuy Hòa",
+      "tags"     : "Mũi Điện Tuy Hòa Phú Yên",
       "url"      : "/tro-lai-phu-yen-2017"
     } ,
   

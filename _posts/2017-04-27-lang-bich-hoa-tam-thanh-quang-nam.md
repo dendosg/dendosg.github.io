@@ -3,7 +3,7 @@ layout: post
 title: "[Xuyên Việt] Ghé làng bích họa Tam Thanh – Quảng Nam"
 author: "Đèn Đỏ"
 categories: [Du Ký, Xuyên Việt]
-tags: [bích họa, Tam Thanh, Quảng Nam]
+tags: [Bích Họa, Tam Thanh, Quảng Nam]
 cover: 'https://dendosg.github.io/assets/img/upload/2017/04/thumb-bichhoa.jpg'
 ---
 
