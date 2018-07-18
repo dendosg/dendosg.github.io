@@ -4,7 +4,7 @@ title: "[Xuyên Việt]Ghé Eo Gió, nếm đặc sản Quảng Ngãi"
 author: "Đèn Đỏ"
 categories: [Xuyên Việt,Du Ký]
 tags: [Eo Gió,Quảng Ngãi, Xuyên Việt]
-cover: 'https://dendosg.github.io/assets/img/upload/2017/04/thumbnail-eo-gio.jpg'
+cover: '/assets/img/upload/2017/04/thumbnail-eo-gio.jpg'
 ---
 
 Tạm biệt [Phú Yên](http://ngaoduky.com/trai-nghiem-cuoc-song-cung-dan-ban-dia), chúng tôi lại tiếp tục hành trình bằng 1 điểm đến mới – tp. Quy Nhơn. Kể từ đây, mỗi chặng đường mà chúng tôi đi đều là những vùng đất mới, nơi mà cả 2 chúng tôi đều chưa có dịp đặt chân đến. Không còn 1 Bình Thuận cảnh cũ đường quen, không là 1 Phú Yên thân thuộc như quê nhà. Mọi thứ đều lạ lẫm mới 2 chúng tôi, và tất nhiên, chúng tôi thấy thích thú vì điều đó.

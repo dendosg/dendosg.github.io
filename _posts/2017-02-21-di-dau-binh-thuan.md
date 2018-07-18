@@ -4,7 +4,7 @@ title: 'Đến Bình Thuận thì đi đâu'
 categories: [Kinh Nghiệm]
 tags: [Bình Thuận]
 author: 'Đèn Đỏ'
-cover: 'https://dendosg.github.io/assets/img/upload/2017/02/featured-binh-thuan.jpg'
+cover: '/assets/img/upload/2017/02/featured-binh-thuan.jpg'
 tags: [Kê Gà,Mũi Né,Phan Thiết,Bàu Trắng,Suối Tiên]
 ---
 

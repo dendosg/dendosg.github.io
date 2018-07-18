@@ -4,7 +4,7 @@ title: "[Xuyên Việt] Trải nghiệm cuộc sống cùng dân bản địa"
 author: "Đèn Đỏ"
 categories: [Du Ký,Xuyên Việt]
 tags: [Tuy Phong, Phan Rang, Vĩnh Hy, Nha Trang, Đầm Môn,Phú Yên]
-cover: 'https://dendosg.github.io/assets/img/upload/2017/02/dam-mon-khanh-hoa-2.jpg'
+cover: '/assets/img/upload/2017/02/dam-mon-khanh-hoa-2.jpg'
 ---
 
 ### Tiếp tục với chuỗi các bài viết về chuyến Xuyên Việt của minh, bài viết này sẽ viết về cung đường: Tuy Phong (Bình Thuận) – Phan Rang – Vĩnh Hy – Nha Trang – Đầm Môn – Phú Yên.
