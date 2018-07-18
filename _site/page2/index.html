@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NGAO DU KÝ - Nhật Ký Ngao Du</title>
+    <meta name="author"  content="Đèn Đỏ">
+    <meta name="description" content="Blog viết linh tinh về du lịch và những thứ khác">
+    <meta name="keywords"  content="">
+    <!-- Open Graph -->
+    <meta property="og:title" content="NGAO DU KÝ - Nhật Ký Ngao Du">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://localhost:4000/page2/">
+    <meta property="og:description" content="Blog viết linh tinh về du lịch và những thứ khác">
+    <meta property="og:site_name" content="NGAO DU KÝ - Nhật Ký Ngao Du">
+    
+    <!--  Thay thế cho font Roboto    -->
+    <style>
+    /* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v18/ek4gzZ-GeXAPcSbHtCeQI_esZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v18/mErvLBYg_cXG3rLvUsKT_fesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v18/-2n2p-_Y08sg57CNWQfKNvesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v18/u0TOpm082MNkS5K0Q4rhqvesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v18/NdF9MtnOpLzo-noMoG0miPesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v18/Fcx7Wwv8OzT71A3E1XOAjvesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v18/CWB0XYA8bzo0kSThX0UTuA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2212, U+2215;
+}
+    </style>
+    
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="//cdn.staticfile.org/normalize/6.0.0/normalize.min.css">
+    <link rel="stylesheet" href="//at.alicdn.com/t/font_roc50gemkxpw4s4i.css">
+    <link rel="stylesheet" href="/assets/css/github-markdown.css">
+    <link rel="stylesheet" href="/assets/css/prism.css">
+    <link rel="stylesheet" href="/assets/css/share.min.css">
+    <link rel="stylesheet" href="/assets/css/app.min.css">
+</head>
+
+<body>
+    <input id="nm-switch" type="hidden" value="false">
+    <header class="g-header">
+    <div class="g-logo">
+      <a href="/"></a>
+    </div>
+    <i id="menu-toggle" class="iconfont icon-menu"></i>
+    <nav class="g-nav">
+        <ul>
+            
+            <li><a href="/">home</a></li>
+            
+            <li><a href="/tags.html">tags</a></li>
+            
+            <li><a href="/about.html">about</a></li>
+            
+        </ul>
+    </nav>
+</header>
+
+
+<div class="g-banner home-banner banner-theme-default" data-theme="default">
+    <h2>ngaoduky</h2>
+    <h3>viết linh tinh</h3>
+    
+</div>
+
+<main class="g-container home-content">
+    <div class="article-list">
+        
+            <article class="article-item">
+                
+                <div class="post-cover">
+                    <a class="post-link" href="/di-dau-binh-thuan" title="Đến Bình Thuận thì đi đâu"></a>
+                    <img src="https://dendosg.github.io/assets/img/upload/2017/02/featured-binh-thuan.jpg" alt="">
+                </div>
+                
+                <section class="post-preview">
+                    <a class="post-link" href="/di-dau-binh-thuan" title="Đến Bình Thuận thì đi đâu"></a>
+                    <h2 class="post-title">Đến Bình Thuận thì đi đâu</h2>
+                    
+                    
+                    <p class="post-excerpt">Đi đâu khi tới Bình Thuận?Mình xin chia sẻ 1 vài địa điểm và lịch trình tham khảo dưới đây, hy vọng giúp ích được nhiều ngư...</p>
+                    
+                </section>
+                <footer class="post-meta">
+                    <div class="post-tags">
+                        
+                            
+                            <a href=tags.html#Kê Gà class="post-tag">Kê Gà</a>
+                            
+                            <a href=tags.html#Mũi Né class="post-tag">Mũi Né</a>
+                            
+                            <a href=tags.html#Phan Thiết class="post-tag">Phan Thiết</a>
+                            
+                            <a href=tags.html#Bàu Trắng class="post-tag">Bàu Trắng</a>
+                            
+                            <a href=tags.html#Suối Tiên class="post-tag">Suối Tiên</a>
+                            
+                        
+                    </div>
+                  
+                    <time class="post-date" datetime="17-02-21">21 Feb 2017</time>
+                </footer>
+            </article>
+        
+            <article class="article-item">
+                
+                <div class="post-cover">
+                    <a class="post-link" href="/bat-dau-hanh-trinh-xuyen-viet" title="[Xuyên Việt] Hành trình bắt đầu"></a>
+                    <img src="https://dendosg.github.io/assets/img/upload/2017/02/featured-xuyen-viet-binh-thuan.jpg" alt="">
+                </div>
+                
+                <section class="post-preview">
+                    <a class="post-link" href="/bat-dau-hanh-trinh-xuyen-viet" title="[Xuyên Việt] Hành trình bắt đầu"></a>
+                    <h2 class="post-title">[Xuyên Việt] Hành trình bắt đầu</h2>
+                    
+                    
+                    <p class="post-excerpt">5h sáng ngày 02-07-2016, chúng tôi lên đường thực hiện chuyến đi đã được chờ đợi hơn nửa năm trời. Cảm giác vừa háo hức vừa...</p>
+                    
+                </section>
+                <footer class="post-meta">
+                    <div class="post-tags">
+                        
+                            
+                            <a href=tags.html#Xuyên Việt class="post-tag">Xuyên Việt</a>
+                            
+                        
+                    </div>
+                  
+                    <time class="post-date" datetime="17-02-21">21 Feb 2017</time>
+                </footer>
+            </article>
+        
+            <article class="article-item">
+                
+                <div class="post-cover">
+                    <a class="post-link" href="/tro-lai-phu-yen-2017" title="Phú Yên 2017 - Chuyến đi ẩm ướt"></a>
+                    <img src="https://dendosg.github.io/assets/img/upload/2017/02/Featured-phu-yen-2017.jpg" alt="">
+                </div>
+                
+                <section class="post-preview">
+                    <a class="post-link" href="/tro-lai-phu-yen-2017" title="Phú Yên 2017 - Chuyến đi ẩm ướt"></a>
+                    <h2 class="post-title">Phú Yên 2017 - Chuyến đi ẩm ướt</h2>
+                    
+                    
+                    <p class="post-excerpt">Trong đợt tết 2017 vừa rồi mình lại có dịp đến Phú Yên cùng đồng bọn, 2 năm liên tiếp đi Phú Yên vào dịp tết =)) Lý do là k...</p>
+                    
+                </section>
+                <footer class="post-meta">
+                    <div class="post-tags">
+                        
+                            
+                            <a href=tags.html#Phú Yên class="post-tag">Phú Yên</a>
+                            
+                            <a href=tags.html#Mũi Điện class="post-tag">Mũi Điện</a>
+                            
+                            <a href=tags.html#Bãi Môn class="post-tag">Bãi Môn</a>
+                            
+                            <a href=tags.html#Tuy Hòa class="post-tag">Tuy Hòa</a>
+                            
+                        
+                    </div>
+                  
+                    <time class="post-date" datetime="17-02-17">17 Feb 2017</time>
+                </footer>
+            </article>
+        
+            <article class="article-item">
+                
+                <div class="post-cover">
+                    <a class="post-link" href="/phu-yen-2016" title="Phú Yên 2016 – Phủi bụi ổ cứng"></a>
+                    <img src="https://dendosg.github.io/assets/img/upload/2017/02/du-ky-phu-yen-22.jpg" alt="">
+                </div>
+                
+                <section class="post-preview">
+                    <a class="post-link" href="/phu-yen-2016" title="Phú Yên 2016 – Phủi bụi ổ cứng"></a>
+                    <h2 class="post-title">Phú Yên 2016 – Phủi bụi ổ cứng</h2>
+                    
+                    
+                    <p class="post-excerpt">Năm mới ngồi lục đống ảnh cũ ra đăng, lâu giờ mình không đăng tấm hình đi chơi nào lên mạng, không như hồi trước, đi chỗ mé...</p>
+                    
+                </section>
+                <footer class="post-meta">
+                    <div class="post-tags">
+                        
+                            
+                            <a href=tags.html#Phú Yên class="post-tag">Phú Yên</a>
+                            
+                        
+                    </div>
+                  
+                    <time class="post-date" datetime="17-02-17">17 Feb 2017</time>
+                </footer>
+            </article>
+        
+
+        
+            <nav class="pagination">
+    <input type="hidden" id="total_pages" value="2">
+    <input type="hidden" id="current_pages" value="2">
+    <input type="hidden" id="base_url" value="/">
+    <div class="page-links">
+        
+            
+            <a href="/" class="page-link" title="Previous Page">&laquo;</a>
+            
+        
+        <div id="page-link-container"></div>
+        
+    </div>
+</nav>
+
+        
+
+    </div>
+
+    <aside class="g-sidebar-wrapper">
+        <div class="g-sidebar">
+            <section class="author-card">
+                <div class="avatar">
+                    <img src="/assets/img/profile.png" alt="">
+                </div>
+                <div class="author-name" rel="author">Đèn Đỏ</div>
+                <div class="bio">
+                    <p>Gã mơ</p>
+                </div>
+                
+                <ul id="sns-links" class="sns-links">
+                    
+                    <li>
+                        <a href="https://www.facebook.com/ngaoduky.com" target="_blank">
+                            <i class="fa fa-facebook" aria-hidden="true"></i>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="https://www.youtube.com/ngaoduky" target="_blank">
+                            <i class="fa fa-youtube-play" aria-hidden="true"></i>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="https://www.instagram.com/ngaoduky" target="_blank">
+                            <i class="fa fa-instagram" aria-hidden="true"></i>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="https://twitter.com/ngaoduky" target="_blank">
+                            <i class="fa fa-twitter" aria-hidden="true"></i>
+                        </a>
+                    </li>
+                    
+                </ul>
+                
+            </section>
+
+            
+            <section class="tags-card">
+                
+                    
+                    <a href="tags.html#Phú Yên" class="tag">Phú Yên</a>
+                
+                    
+                    <a href="tags.html#Mũi Điện" class="tag">Mũi Điện</a>
+                
+                    
+                    <a href="tags.html#Bãi Môn" class="tag">Bãi Môn</a>
+                
+                    
+                    <a href="tags.html#Tuy Hòa" class="tag">Tuy Hòa</a>
+                
+                    
+                    <a href="tags.html#Xuyên Việt" class="tag">Xuyên Việt</a>
+                
+                    
+                    <a href="tags.html#Kê Gà" class="tag">Kê Gà</a>
+                
+                    
+                    <a href="tags.html#Mũi Né" class="tag">Mũi Né</a>
+                
+                    
+                    <a href="tags.html#Phan Thiết" class="tag">Phan Thiết</a>
+                
+                    
+                    <a href="tags.html#Bàu Trắng" class="tag">Bàu Trắng</a>
+                
+                    
+                    <a href="tags.html#Suối Tiên" class="tag">Suối Tiên</a>
+                
+                    
+                    <a href="tags.html#Tuy Phong" class="tag">Tuy Phong</a>
+                
+                    
+                    <a href="tags.html#Phan Rang" class="tag">Phan Rang</a>
+                
+                    
+                        
+            </section>
+            
+        </div>
+
+        
+        <div class="search-card">
+            <input id="search_input" type="text" placeholder="Search...">
+            <i class="iconfont icon-search"></i>
+            <div class="search_result"></div>
+        </div>
+        
+
+    </aside>
+
+</main>
+
+<footer class="g-footer">
+    <section>NGAO DU KÝ - Nhật Ký Ngao Du © 2018</section>
+</footer>
+
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-92171109-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+    <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+    <script src="/assets/js/prism.js"></script>
+    <script src="/assets/js/index.min.js"></script>
+</body>
+</html>
