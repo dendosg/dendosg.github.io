@@ -187,4 +187,6 @@ Leo đồi, băng rừng, lội suối, ăn ngon ở bẩn :v, ngủ lại trong
 
 Cuối cùng giới thiệu mọi người bài Đi theo bóng mặt trời – Đen ft M!. MV bài này là cảnh ở Tà Năng, tối hôm qua Đen up bài hát này lên, ưng cái lời quá mình nghe cả đêm tới sáng rồi nổi hứng viết bài viết này.
 
+<div class="videowrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XszJkmsrccI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
