@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Lên cao nguyên chiêm ngưỡng thác Draynur kỳ vĩ"
-author: "Đèn Đỏ"
 categories: [Kinh Nghiệm]
-tags: [Đắk Lắk]
+tags: [Đắk Lắk,Thác Draynur]
 cover: '/assets/img/upload/2017/06/thac-draynur/thac-draynur-0.jpg'
 ---
 

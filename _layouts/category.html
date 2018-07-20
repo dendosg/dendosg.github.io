@@ -1,30 +1,12 @@
 --- 
-layout: default 
----
+layout: page 
+--- 
+{% for post in paginator.posts %}
+<h4>Day la h4</h4>
+{% endfor %} {% if paginator.total_pages > 1 %} {% include pageNav.html %} {% endif %}
 
-<!-- ngaoduky | viet linh tinh -->
-{% include header.html %}
-<div class="g-banner home-banner {{ site.theme-color | prepend: 'banner-theme-' }}" data-theme="{{ site.theme-color }}">
-    <h2>{{ site.home-title }}</h2>
-    <h3>{{ site.home-description }}</h3>
-    {% if page.header-img %}
-    <img class="header-img" src="{{ page.header-img | prepend: site.baseurl }}" alt=""> {% endif %}
-</div>
-
-<style>
-    .category_detail{
-        margin: 10px
-    }
-</style>
 <main class="g-container home-content">
-    <!-- Description Category -->
-    <div class="category_detail">
-            <h2>{{page.category_name}}</h2>
-            <br>
-            <p>{{page.description}}</p>
-            <br>
-            <hr>    
-    </div>
+
     <!-- List post -->
     <div class="article-list">
         {% for post in site.posts %} {% if post.categories contains page.category_name %}

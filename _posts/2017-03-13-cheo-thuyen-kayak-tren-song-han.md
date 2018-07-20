@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "[Xuyên Việt] Chèo thuyền Kayak trên sông Hàn, cắm trại thôn Vạn Buồng"
-author: "Đèn Đỏ"
-categories: [Du Ký,Xuyên Việt]
+categories: [Xuyên Việt]
 tags: [Kayak, Đà Nẵng, Sông Hàn, Vạn Buồng]
 cover: '/assets/img/upload/2017/03/IMG_0779.jpg'
 ---

@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "[Xuyên Việt] Bắc Trung Bộ"
-author: "Đèn Đỏ"
-categories: [Xuyên Việt,Du Ký]
-tags: [Bắc Trung Bộ, Xuyên Việt]
+categories: [Xuyên Việt]
+tags: [Đèo Hải Vân,Động Phong Nha,Suối Nước Moọc,Vũng Chùa,Đèo Ngang,Làng Sen]
 cover: '/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-3.jpg'
 ---
 

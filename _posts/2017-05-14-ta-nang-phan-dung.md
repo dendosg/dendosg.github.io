@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "[Trekking] Tà Năng – Phan Dũng"
-author: "Đèn Đỏ"
 categories: [Du Ký]
 tags: [Tà Năng, Phan Dũng, Trekking]
 cover: '/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-3.jpg'

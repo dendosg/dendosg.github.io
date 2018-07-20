@@ -16,7 +16,7 @@ audio,body,caption,div,footer,form,h1,h2,h3,h4,h5,h6,header,html,iframe,label,le
     outline:0 none
 }
 body{
-    font-family:-apple-system,Verdana,"PingFang SC","Helvetica Neue",Arial,"Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",sans-serif;
+    font-family:Roboto,-apple-system,Verdana,"PingFang SC","Helvetica Neue",Arial,"Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",sans-serif;
     color:#656565;
     -webkit-font-smoothing:antialiased;
     background-color:#f7f8fa
@@ -102,10 +102,10 @@ a{
 .g-header .g-nav>ul>li>a{
     display:inline-block;
     font-size:14px;
+    font-weight: bold;
     letter-spacing:1px;
     color:#fff;
     padding:0 12px;
-    opacity:.7
 }
 .g-header .g-nav>ul>li>a:hover{
     opacity:1
@@ -143,7 +143,7 @@ a{
     padding-top:190px;
     line-height:38px;
     font-size:42px;
-    font-family:Arial,'Hiragino Sans GB','Microsoft YaHei','WenQuanYi Micro Hei',sans-serif;
+    font-family:Roboto,Arial,'Hiragino Sans GB','Microsoft YaHei','WenQuanYi Micro Hei',sans-serif;
     font-weight:700;
     letter-spacing:2px;
     line-height:52px
@@ -151,7 +151,7 @@ a{
 .home-banner h3{
     font-size:20px;
     font-weight:400;
-    letter-spacing:10px;
+    letter-spacing:3px;
     margin-top:8px
 }
 .home-banner .header-img{
@@ -369,13 +369,13 @@ a{
     height:22px;
     padding:0 8px;
     font-size:14px;
-    color:#a6abb2;
+    color:#fdfdfd;
     font-family:-apple-system,Verdana,"PingFang SC","Helvetica Neue",Arial,"Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",sans-serif;
     line-height:22px;
     box-sizing:border-box;
-    box-shadow:0 0 .6px #d5dae1;
+    box-shadow:0 0 .6px #0439f9;
     border-radius:2px;
-    background-color:#fafafa;
+    background-color:#009afc;
     cursor:pointer;
     margin-right:2px;
     transition:.2s
@@ -384,7 +384,7 @@ a{
     margin-right:0
 }
 .article-item .post-meta .post-tag:hover,.tags-card .tag:hover,.tags-content .tag:hover{
-    color:#83888f
+    color:#000000
 }
 .g-sidebar-wrapper{
     float:right;
@@ -510,7 +510,6 @@ a{
     height:34px;
     margin:6px;
     font-size:16px;
-    color:#a9b0bc;
     line-height:34px;
     text-align:center;
     border-radius:2px;
@@ -575,7 +574,7 @@ a{
     padding:0 8px;
     font-size:14px;
     color:#a6abb2;
-    font-family:-apple-system,Verdana,"PingFang SC","Helvetica Neue",Arial,"Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",sans-serif;
+    font-family:"Roboto",-apple-system,Verdana,"PingFang SC","Helvetica Neue",Arial,"Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",sans-serif;
     line-height:22px;
     box-sizing:border-box;
     box-shadow:0 0 .6px #d5dae1;
@@ -1070,7 +1069,7 @@ a{
         padding:16px 0;
         font-size:16px;
         font-weight:700;
-        color:#a5a8b0;
+        color:#10a3fc;
         opacity:1
     }
     .author-detail .author-card .sns-links{
@@ -1148,7 +1147,7 @@ a{
     .home-banner h3{
         margin-top:2px;
         font-size:18px;
-        letter-spacing:6px
+        letter-spacing:2px
     }
     .home-banner .header-img{
         width:695px;
@@ -1200,7 +1199,7 @@ a{
         margin:100px 0 8px
     }
     .post-wrapper h1{
-        font-family:"Helvetica Neue",Helvetica,Arial,"Pingfang SC","Microsoft Yahei",Sans-serif
+        font-family:Roboto,"Helvetica Neue",Helvetica,Arial,"Pingfang SC","Microsoft Yahei",Sans-serif
     }
     .post-wrapper .post-meta{
         margin-top:16px

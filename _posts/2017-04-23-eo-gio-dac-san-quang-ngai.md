@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "[Xuyên Việt]Ghé Eo Gió, nếm đặc sản Quảng Ngãi"
-author: "Đèn Đỏ"
-categories: [Xuyên Việt,Du Ký]
+categories: [Xuyên Việt]
 tags: [Eo Gió,Quảng Ngãi, Xuyên Việt]
 cover: '/assets/img/upload/2017/04/thumbnail-eo-gio.jpg'
 ---

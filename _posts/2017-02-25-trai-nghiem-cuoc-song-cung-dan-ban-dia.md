@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "[Xuyên Việt] Trải nghiệm cuộc sống cùng dân bản địa"
-author: "Đèn Đỏ"
-categories: [Du Ký,Xuyên Việt]
+categories: [Xuyên Việt]
 tags: [Tuy Phong, Phan Rang, Vĩnh Hy, Nha Trang, Đầm Môn,Phú Yên]
 cover: '/assets/img/upload/2017/02/dam-mon-khanh-hoa-2.jpg'
 ---

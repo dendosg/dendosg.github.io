@@ -1,23 +1,8 @@
 --- 
-layout: default 
+layout: page 
 ---
 
-<!-- ngaoduky | viet linh tinh -->
-{% include header.html %}
-<div class="g-banner home-banner {{ site.theme-color | prepend: 'banner-theme-' }}" data-theme="{{ site.theme-color }}">
-    <h2>{{ site.home-title }}</h2>
-    <h3>{{ site.home-description }}</h3>
-    {% if page.header-img %}
-    <img class="header-img" src="{{ page.header-img | prepend: site.baseurl }}" alt=""> {% endif %}
-</div>
-
-
 <main class="g-container home-content">
-    <!-- Description Tag -->
-
-    <h3>Tag: {{page.tag_name}}</h3>
-    <br>
-    <hr>
     <div class="article-list">
         {% for post in site.posts %} {% if post.tags contains page.tag_name %}
         <article class="article-item">

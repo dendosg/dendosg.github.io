@@ -2,10 +2,9 @@
 layout: post
 title: 'Đến Bình Thuận thì đi đâu'
 categories: [Kinh Nghiệm]
-tags: [Bình Thuận]
 author: 'Đèn Đỏ'
 cover: '/assets/img/upload/2017/02/featured-binh-thuan.jpg'
-tags: [Kê Gà,Mũi Né,Phan Thiết,Bàu Trắng,Suối Tiên]
+tags: [Kê Gà,Mũi Né,Phan Thiết,Bàu Trắng,Suối Tiên,Bình Thuận]
 ---
 
 ![](https://dendosg.github.io/assets/img/upload/2017/02/f-binh-thuan.jpg)

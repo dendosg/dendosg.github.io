@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "[Xuyên Việt] Hành trình bắt đầu"
-author: "Đèn Đỏ"
-categories: [Du Ký,Xuyên Việt]
+categories: [Xuyên Việt]
 tags: [Bình Thuận]
 cover: '/assets/img/upload/2017/02/featured-xuyen-viet-binh-thuan.jpg'
 ---
