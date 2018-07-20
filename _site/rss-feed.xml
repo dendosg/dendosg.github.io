@@ -525,7 +525,7 @@ Tham khảo thêm:&lt;/p&gt;
 			</item>
 		
 			<item>
-				<title>[Xuyên Việt]Ghé Eo Gió, nếm đặc sản Quảng Ngãi</title>
+				<title>[Xuyên Việt] Ghé Eo Gió, nếm đặc sản Quảng Ngãi</title>
 				
 				
 					<description>&lt;p&gt;Tạm biệt &lt;a href=&quot;http://ngaoduky.com/trai-nghiem-cuoc-song-cung-dan-ban-dia&quot;&gt;Phú Yên&lt;/a&gt;, chúng tôi lại tiếp tục hành trình bằng 1 điểm đến mới – tp. Quy Nhơn. Kể từ đây, mỗi chặng đường mà chúng tôi đi đều là những vùng đất mới, nơi mà cả 2 chúng tôi đều chưa có dịp đặt chân đến. Không còn 1 Bình Thuận cảnh cũ đường quen, không là 1 Phú Yên thân thuộc như quê nhà. Mọi thứ đều lạ lẫm mới 2 chúng tôi, và tất nhiên, chúng tôi thấy thích thú vì điều đó.&lt;/p&gt;
@@ -700,7 +700,10 @@ Tham khảo thêm:&lt;/p&gt;
 
 &lt;p&gt;Video hành trình Bình Định – Quảng Ngãi – Quảng Nam – Đà Nẵng, nằm trong chuyến Xuyên Việt 2016.&lt;br /&gt;
 Trải nghiệm thú vị nhất trong chuyến này vẫn là được chèo thuyền Kayak trên sông Hàn – Đà Nẵng. Lần đầu tiên được tự tay chèo thuyền, lúc đầu cứ nghĩ là dễ, đến lúc chèo 1 lúc rồi thì đúng là dễ thật.&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/mb1hZpl0xus&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;div class=&quot;videowrapper&quot;&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/mb1hZpl0xus&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
 				
 				<pubDate>Mon, 13 Mar 2017 00:00:00 +0700</pubDate>

@@ -108,4 +108,8 @@ Lúc đi thì trời rất âm u, cứ như sắp mưa to vậy, mà mưa thì l
 
 Video hành trình Bình Định – Quảng Ngãi – Quảng Nam – Đà Nẵng, nằm trong chuyến Xuyên Việt 2016.  
 Trải nghiệm thú vị nhất trong chuyến này vẫn là được chèo thuyền Kayak trên sông Hàn – Đà Nẵng. Lần đầu tiên được tự tay chèo thuyền, lúc đầu cứ nghĩ là dễ, đến lúc chèo 1 lúc rồi thì đúng là dễ thật.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mb1hZpl0xus" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+
+<div class="videowrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/mb1hZpl0xus" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
