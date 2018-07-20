@@ -11,7 +11,7 @@ cover: '/assets/img/upload/2017/04/thumb-bichhoa.jpg'
 Làng bích họa Tam Thanh
 -----------------------
 
-Làng bích họa Tam Thanh là 1 dự án cộng đồng Hàn-Việt được thực hiện tại thôn Trung Thanh, xã Tam Thanh, thành phố Tam Kỳ, Quảng Nam. Dự án nhằm mục đích phát triển du lịch và nâng cao đời sống cho người dân nghèo nơi đây.
+**Làng bích họa Tam Thanh là 1 dự án cộng đồng Hàn-Việt được thực hiện tại thôn Trung Thanh, xã Tam Thanh, thành phố Tam Kỳ, Quảng Nam. Dự án nhằm mục đích phát triển du lịch và nâng cao đời sống cho người dân nghèo nơi đây.**
 
 ![làng bích họa Tam Thanh](https://dendosg.github.io/assets/img/upload/2017/04/lang-bich-hoa-tam-thanh-quang-nam-2.jpg)
 

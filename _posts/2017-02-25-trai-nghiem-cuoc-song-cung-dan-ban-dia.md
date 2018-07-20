@@ -6,7 +6,7 @@ tags: [Tuy Phong, Phan Rang, Vĩnh Hy, Nha Trang, Đầm Môn,Phú Yên]
 cover: '/assets/img/upload/2017/02/dam-mon-khanh-hoa-2.jpg'
 ---
 
-### Tiếp tục với chuỗi các bài viết về chuyến Xuyên Việt của minh, bài viết này sẽ viết về cung đường: Tuy Phong (Bình Thuận) – Phan Rang – Vĩnh Hy – Nha Trang – Đầm Môn – Phú Yên.
+**Tiếp tục với chuỗi các bài viết về chuyến Xuyên Việt của minh, bài viết này sẽ viết về cung đường: Tuy Phong (Bình Thuận) – Phan Rang – Vĩnh Hy – Nha Trang – Đầm Môn – Phú Yên.**
 
 Xem thêm bài viết trước: [\[Xuyên Việt\] Hành trình bắt đầu](http://ngaoduky.com/bat-dau-hanh-trinh-xuyen-viet)
 

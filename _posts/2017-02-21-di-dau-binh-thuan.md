@@ -12,7 +12,7 @@ tags: [Kê Gà,Mũi Né,Phan Thiết,Bàu Trắng,Suối Tiên,Bình Thuận]
 Đi đâu khi tới Bình Thuận?
 ==========================
 
-Mình xin chia sẻ 1 vài địa điểm và lịch trình tham khảo dưới đây, hy vọng giúp ích được nhiều người. Ở Sài Gòn mà dành cuối tuần để đi bụi Bình Thuận là hợp lý lắm đó.
+**Mình xin chia sẻ 1 vài địa điểm và lịch trình tham khảo dưới đây, hy vọng giúp ích được nhiều người. Ở Sài Gòn mà dành cuối tuần để đi bụi Bình Thuận là hợp lý lắm đó.**
 
 1, Hải đăng Kê Gà
 -----------------
@@ -122,4 +122,7 @@ Tối lên Phan Thiết ăn uống bung lụa rồi về lại Mũi Né, tiện 
 Sáng ra Mũi Né tắm biển rồi chạy lên Bàu Trắng chơi tí, chủ yếu là đi cái đoạn đường đẹp đẹp qua Bàu Trắng thôi :3. Xong rồi thong thả mà về Sài Gòn, hết tuần. Hết bài.
 
 Đây là cái bản đồ mấy điểm ở trên, xem cho dễ hình dung nè.
+
+<div class="iframewrapper" >
 <iframe src="https://www.google.com/maps/d/embed?mid=1Y1DtHetMCR1cdN758jiXm0vjt3o" width="640" height="480"></iframe>
+</div>

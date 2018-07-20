@@ -7,7 +7,7 @@ cover: '/assets/img/upload/2017/06/thac-draynur/thac-draynur-0.jpg'
 ---
 
 
-Tây Nguyên, miền đất đỏ bazan với bạn ngàn cà phê và cao su, khí hậu quanh năm ôn hòa, đầy hoang sơ, ẩn chứa nhiều bí ẩn. Trong rất nhiều điều bí ẩn của Tây Nguyên, cần phải kể đến thác Draynur hùng vĩ. Một ẩn số, một thắng cảnh của cao nguyên Đắk Lắk -  nơi tôi sinh ra và lớn lên. 
+**Tây Nguyên, miền đất đỏ bazan với bạn ngàn cà phê và cao su, khí hậu quanh năm ôn hòa, đầy hoang sơ, ẩn chứa nhiều bí ẩn. Trong rất nhiều điều bí ẩn của Tây Nguyên, cần phải kể đến thác Draynur hùng vĩ. Một ẩn số, một thắng cảnh của cao nguyên Đắk Lắk -  nơi tôi sinh ra và lớn lên.**
  
 
 # Đường đi thác Draynur

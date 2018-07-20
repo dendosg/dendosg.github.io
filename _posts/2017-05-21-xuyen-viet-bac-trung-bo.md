@@ -7,7 +7,7 @@ cover: '/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-3.jpg'
 ---
 
 
-**Bắc Trung Bộ là vùng đất của các di tích lịch sử: các lăng tẩm vua chúa ở Huế, thành cổ Quảng Trị và cầu Hiền Lương, tượng đài mẹ Suốt ở Quảng Bình, ngã ba Đồng Lộc ở Hà Tĩnh, khu di tích Kim Liên gắn liền với tuổi thơ của Bác Hồ. Bên cạnh đó cũng có không ít danh lam thắng cảnh gây ấn tượng mạnh cho chúng tôi trong chuyến đi này, có thể kể đến là đèo Hải Vân, bãi biển Lăng Cô, động Phong Nha. **
+**Bắc Trung Bộ là vùng đất của các di tích lịch sử: các lăng tẩm vua chúa ở Huế, thành cổ Quảng Trị và cầu Hiền Lương, tượng đài mẹ Suốt ở Quảng Bình, ngã ba Đồng Lộc ở Hà Tĩnh, khu di tích Kim Liên gắn liền với tuổi thơ của Bác Hồ. Bên cạnh đó cũng có không ít danh lam thắng cảnh gây ấn tượng mạnh cho chúng tôi trong chuyến đi này, có thể kể đến là đèo Hải Vân, bãi biển Lăng Cô, động Phong Nha.**
 
 1, Đèo Hải Vân
 --------------

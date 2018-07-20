@@ -7,7 +7,7 @@ cover: '/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-3.jpg'
 ---
 
 
-Tà Năng – Phan Dũng là một cung trekking đã hút hồn dân đam mê xê dịch bởi vẻ đẹp hoang sơ, sự hùng vĩ của núi rừng và những trải nghiệm khó quên mà chuyến đi mang lại. 
+**Tà Năng – Phan Dũng là một cung trekking đã hút hồn dân đam mê xê dịch bởi vẻ đẹp hoang sơ, sự hùng vĩ của núi rừng và những trải nghiệm khó quên mà chuyến đi mang lại.**
 
 Tà Năng là 1 xã thuộc huyện Đức Trọng, tỉnh Lâm Đồng. Phan Dũng thuộc huyện Tuy Phong, tỉnh Bình Thuận. Đi từ Tà Năng xuống Phan Dũng sẽ đi qua 3 tỉnh Lâm Đồng, Ninh Thuận và Bình Thuận. Nhóm mình 5 người, trek trong 3 ngày.  
 ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-93.jpg)
@@ -92,7 +92,8 @@ Leo đồi, băng rừng, lội suối, ăn ngon ở bẩn :v, ngủ lại trong
 
 *Cây này không biết là cây cô đơn hay cây tự kỷ nữa*
 
-![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-34.jpg) ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-40.jpg)
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-34.jpg) 
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-40.jpg)
 
 ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-36.jpg)
 
@@ -164,8 +165,12 @@ Leo đồi, băng rừng, lội suối, ăn ngon ở bẩn :v, ngủ lại trong
 
 *Không tồn tại sự xô bồ của thành phố, xung quanh chỉ có mỗi ta với bạn đồng hành. Đi đâu cũng phải nhìn trước ngó sau, không phải vì sợ xe tông hay cướp giật như mọi ngày, mà để ngắm cho trọn cảnh đẹp nơi đây.*
 
-![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-64.jpg) ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-63.jpg) ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-77.jpg) ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-72.jpg) ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-71.jpg)![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-79.jpg)
-
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-64.jpg) 
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-63.jpg) 
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-77.jpg) 
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-72.jpg) 
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-71.jpg)
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-79.jpg)
 ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-93-1.jpg)
 
 *Đi thong dong trên những ngọn đồi, cảm thấy con người thật nhỏ bé trước thiên nhiên. Tuy hành trình lắm gian nan nhưng chút xanh của cỏ, chút nắng vàng óng ả và cả những tia nắng ban mai làm tất cả quên đi mọi mệt nhọc*
@@ -178,15 +183,33 @@ Leo đồi, băng rừng, lội suối, ăn ngon ở bẩn :v, ngủ lại trong
 
 *Cầu vồng hiện ngay trước mắt*
 
-![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-80.jpg)![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-87.jpg) ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-94.jpg) ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-88.jpg)![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-117.jpg) ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-114.jpg) ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-112.jpg) ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-111.jpg) ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-110.jpg) ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-130.jpg) ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-128.jpg) ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-127.jpg) ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-125-1.jpg) ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-138.jpg) ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-136.jpg) ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-135.jpg)
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-80.jpg)
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-87.jpg) 
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-94.jpg) 
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-88.jpg)
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-117.jpg) 
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-114.jpg) 
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-112.jpg) 
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-111.jpg) 
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-110.jpg) 
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-130.jpg) 
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-128.jpg) 
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-127.jpg) 
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-125-1.jpg) 
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-138.jpg) 
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-136.jpg) 
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-135.jpg)
 
-![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-143.jpg) ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-142.jpg) ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-140.jpg) ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-139.jpg)
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-143.jpg) 
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-142.jpg) 
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-140.jpg) 
+![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-139.jpg)
 
 *   Xem đầy đủ ảnh tại album facebook(có chia sẻ kinh nghiệm đi cung này ở comment #1): [https://web.facebook.com/media/set/?set=a.783667858425695.1073741892.100003474639175&type=1&l=1635f06db3](https://web.facebook.com/media/set/?set=a.783667858425695.1073741892.100003474639175&type=1&l=1635f06db3)
 *   Xem thêm bài báo mình viết về cung trekking này: [http://emdep.vn/di/hanh-trinh-chinh-phuc-nui-doi-ta-nang-dau-xuan-moi-20160112122816268.htm](http://emdep.vn/di/hanh-trinh-chinh-phuc-nui-doi-ta-nang-dau-xuan-moi-20160112122816268.htm)
 
 Cuối cùng giới thiệu mọi người bài Đi theo bóng mặt trời – Đen ft M!. MV bài này là cảnh ở Tà Năng, tối hôm qua Đen up bài hát này lên, ưng cái lời quá mình nghe cả đêm tới sáng rồi nổi hứng viết bài viết này.
 
-<div class="videowrapper">
+<div class="iframewrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XszJkmsrccI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>

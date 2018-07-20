@@ -25,7 +25,7 @@ ul{
     list-style-type:none
 }
 a{
-    color:#4e4e4e;
+    color:black;
     text-decoration:none;
     cursor:pointer;
     transition:.2s
@@ -520,8 +520,8 @@ a{
     background-color:#eef0f4
 }
 .pagination .active{
-    color:#8f98aa;
-    background-color:#eef0f4
+    color:white;
+    background-color:#009afc
 }
 .pagination #page-link-container{
     display:inline-block;
@@ -1256,7 +1256,7 @@ a{
 
 
 /* Css iframe Youtube */
-.videowrapper {
+.iframewrapper {
     float: none;
     clear: both;
     width: 100%;
@@ -1266,7 +1266,7 @@ a{
     height: 0;
 }
 
-.videowrapper iframe {
+.iframewrapper iframe {
     position: absolute;
     top: 0;
     left: 0;

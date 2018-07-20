@@ -7,7 +7,7 @@ cover: '/assets/img/upload/2017/02/featured-xuyen-viet-binh-thuan.jpg'
 ---
 
 
-5h sáng ngày 02-07-2016, chúng tôi lên đường thực hiện chuyến đi đã được chờ đợi hơn nửa năm trời. Cảm giác vừa háo hức vừa hồi hộp, không nghĩ nó đến nhanh như thế. Vậy là chuyến đi của tôi và thằng bạn tôi đã bắt đầu – 30 ngày chạy xe máy khắp Việt Nam.
+**5h sáng ngày 02-07-2016, chúng tôi lên đường thực hiện chuyến đi đã được chờ đợi hơn nửa năm trời. Cảm giác vừa háo hức vừa hồi hộp, không nghĩ nó đến nhanh như thế. Vậy là chuyến đi của tôi và thằng bạn tôi đã bắt đầu – 30 ngày chạy xe máy khắp Việt Nam.**
 
 Mà không, thực ra chuyến đi đã bắt đầu kể từ khi nó hỏi vu vơ tôi 1 câu:
 
