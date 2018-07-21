@@ -2,14 +2,14 @@
 layout: post
 title: "[Xuyên Việt] Bắc Trung Bộ"
 categories: [Xuyên Việt]
-tags: [Đèo Hải Vân,Động Phong Nha,Suối Nước Moọc,Vũng Chùa,Đèo Ngang,Làng Sen]
+tags: [Đèo Hải Vân,Động Phong Nha,Suối Nước Moọc,Đèo Ngang,Làng Sen]
 cover: '/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-3.jpg'
 ---
 
 
 **Bắc Trung Bộ là vùng đất của các di tích lịch sử: các lăng tẩm vua chúa ở Huế, thành cổ Quảng Trị và cầu Hiền Lương, tượng đài mẹ Suốt ở Quảng Bình, ngã ba Đồng Lộc ở Hà Tĩnh, khu di tích Kim Liên gắn liền với tuổi thơ của Bác Hồ. Bên cạnh đó cũng có không ít danh lam thắng cảnh gây ấn tượng mạnh cho chúng tôi trong chuyến đi này, có thể kể đến là đèo Hải Vân, bãi biển Lăng Cô, động Phong Nha.**
 
-1, Đèo Hải Vân
+1. Đèo Hải Vân
 --------------
 
 Sau một đêm cắm trại ở Vạn Buồng(Quảng Nam), chúng tôi về Đà Nẵng thu dọn hành lý rồi tiếp tục hành trình. Quãng đường tiếp theo sẽ là men theo đèo Hải Vân để đến với Huế.
@@ -62,7 +62,7 @@ Từ khi hầm Hải Vân đưa vào hoạt động thì phần lớn các phư�
 
 *Khúc cua tay áo trên đèo Phú Gia*
 
-2, Thành phố Huế
+2. Thành phố Huế
 ----------------
 
 ![rất nhiều cây xanh trong thành phố Huế](https://dendosg.github.io/assets/img/upload/2017/05/hue-6.jpg)
@@ -81,7 +81,7 @@ Từ khi hầm Hải Vân đưa vào hoạt động thì phần lớn các phư�
 
 Sau khi lượn 1 vòng ở Huế thăm các cổng kinh thành, thì chúng tôi lại quyết định không ở lại Huế mà đi tiếp về hướng Quảng Trị, mặc dù trước đó đã dự định ở Huế 2 ngày. Lý do 1 phần là thấy Huế không có gì quá đặc sắc để giữ chân chúng tôi, 1 phần muốn dành thêm thời gian cho các tỉnh phía Bắc.
 
-3, Quảng Trị
+3. Quảng Trị
 ------------
 
 Tới Quảng Trị chúng tôi chỉ kịp ghé qua thành cổ Quảng Trị 1 lúc rồi đi luôn vì trời đang tối rất nhanh. Bởi điểm dừng tối nay sẽ là nhà của 1 người bạn, ở Lệ Thủy – Quảng Bình và chúng tôi đang cách đó rất xa.
@@ -106,7 +106,7 @@ Trời đã tối hẳn nhưng chúng tôi vẫn chưa đến được đất Qu
 
 Kết thúc 1 ngày dài rong ruổi xe máy, quãng đường di chuyển ngày hôm nay là dài nhất chuyến đi và gấp đôi những ngày còn lại. Có 2 ngày để chúng tôi khám phá Quảng Bình. À mà lúc này mới thoải mái để mà giặt đống đồ từ lúc bắt đầu đi đến giờ, tới Quảng Bình thì cũng vừa hết đồ mặc.
 
-4, Quảng Bình
+4. Quảng Bình
 -------------
 
 ![trên đường tới động Phong Nha](https://dendosg.github.io/assets/img/upload/2017/05/dong-phong-nha-quang-binh-21.jpg)
@@ -188,7 +188,7 @@ Sáng hôm sau, chào tạm biệt và cảm ơn gia đình Dương đã đón t
 
 *Vũng Chùa – vùng đất yến bình, là nơi yên nghỉ cuối cùng của đại tướng Võ Nguyên Giáp*
 
-5, Hà Tĩnh – Nghệ An
+5. Hà Tĩnh – Nghệ An
 --------------------
 
 Sau khi viếng mộ Đại tướng, từ Vũng Chùa chúng tôi đi về hướng Bắc 6km nữa là đèo Ngang, chính là ranh giới giữa Quảng Bình và Hà Tĩnh. Tới Hà Tĩnh, Nghệ An thì là quê 2 thằng rồi, ăn ngủ không phải lo. Mấy ngày này cũng không đi đâu chơi, dưỡng sức vài ngày để còn chiến tiếp nửa chuyến đi còn lại.

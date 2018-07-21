@@ -27,12 +27,6 @@ description: viết linh tinh
                 {% endif %}
             </section>
             <footer class="post-meta">
-                <div class="post-tags">
-                    {% if post.tags.size > 0 %} {% for tag in post.tags %} {% for site_tag in site.tags_config %} {% if tag == site_tag.name
-                    %}
-                    <a href={{ site_tag.slug | prepend: '/tag/'}} class="post-tag">{{ tag }}</a>
-                    {% endif %} {% endfor %} {% endfor %} {% endif %}
-                </div>
                 <time class="post-date" datetime="{{ post.date | date:" %y-%m-%d " }}">{{ post.date | date_to_string }}</time>
             </footer>
         </article>

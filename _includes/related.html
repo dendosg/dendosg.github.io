@@ -1,0 +1,36 @@
+<div class="columns is-mobile is-centered">
+    <div class="column is-three-fifths ">
+        <br>
+        <hr>
+        <br>
+        <ul class="columns is-multiline is-centered">
+            {% for related_post in page.related_posts %} {% for post in site.posts %}
+            <!-- {% assign full_post_url = site.site_url | append: post.url %} -->
+            {% if related_post.link == post.url %}
+            <li class="column is-one-quarter">
+                <a href="{{post.url}}" title="{{ post.title | xml_escape }}">
+                    <article class="media">
+                        <figure class="media-left">
+                            <p class="image is-16by9">
+                                {% if post.cover %}
+                                <img src="{{ post.cover }}" alt="{{ post.title }}"> {% else %}
+                                <img src="/assets/img/thumbnail_default.png" alt="{{ post.title }}"> {% endif %}
+                            </p>
+                        </figure>
+                        <div class="media-content">
+                            <div class="content">
+                                <p>
+                                    <br>
+                                    <h5>{{ post.title | xml_escape }}</h5>
+                                </p>
+                            </div>
+
+                        </div>
+                    </article>
+                </a>
+            </li>
+            {% endif %} {% endfor %} {% endfor %}
+        </ul>
+    </div>
+
+</div>

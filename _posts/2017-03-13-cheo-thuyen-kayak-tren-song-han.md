@@ -2,13 +2,12 @@
 layout: post
 title: "[Xuyên Việt] Chèo thuyền Kayak trên sông Hàn, cắm trại thôn Vạn Buồng"
 categories: [Xuyên Việt]
-tags: [Kayak, Đà Nẵng, Sông Hàn, Vạn Buồng]
+tags: [Kayak, Đà Nẵng, Sông Hàn, Vạn Buồng,A La Carte,Thu Bồn,]
 cover: '/assets/img/upload/2017/03/IMG_0779.jpg'
 ---
 **Rời [làng bích họa Tam Thanh](http://ngaoduky.com/lang-bich-hoa-tam-thanh-quang-nam), chúng mình tiếp tục đi lên Đà Nẵng, cách Tam Thanh 70km. Tới nơi là khoảng 4h chiều, mình tìm đến homestay Sẻ 43 của chị Cá, nằm ở góc ngã 4 Ngô Quyền giao với Chu Huy Mân (Tham khảo thêm thông tin tại [group Facebook @394781157386711](https://www.facebook.com/media/set/?set=oa.460575687473924&type=1)). Chị Cá chủ homestay Sẻ là người vui tính, thân thiện, rất mê du lịch. Chị thường dẫn mọi người ở Sẻ đi tham gia các hoạt động ngoài trời gần Đà Nẵng. Đợt đó mình được chị Cá dẫn đi cắm trại tại 1 thôn ở Quảng Nam, và chèo thuyền kayak trên sông Hàn, sẽ viết chi tiết ở bên dưới.**
 
-1, A La Carte – Chiều tà Đà Nẵng
---------------------------------
+## A La Carte – Chiều tà Đà Nẵng
 
 Vào Sẻ nghỉ ngơi tắm rửa rồi được bạn dẫn lên tầng thượng của A La Carte – Đà Nẵng. Đứng trên này thấy được cả thành phố, bãi biển dài, những dòng xe qua lại và sự chuyển màu của Đà Nẵng từ lúc bắt đầu có hoàng hôn cho tới khi lên đèn
 
@@ -28,8 +27,7 @@ Vào Sẻ nghỉ ngơi tắm rửa rồi được bạn dẫn lên tầng thư�
 
 ![Đà Nẵng lúc lên đèn](https://dendosg.github.io/assets/img/upload/2017/03/IMG_6946.jpg)
 
-2, Chèo kayak trên sông Hàn
----------------------------
+## Chèo kayak trên sông Hàn
 
 Sáng ngày hôm sau, chị Cá dẫn 2 đứa mình đi chèo thuyền kayak cùng với bạn chị Cá. Đây là lần đầu tiên 2 thằng được ngồi lên thuyền kayak và tự tay chèo lái nó. Lúc đầu cũng hơi bỡ ngỡ, không biết có bị lật thuyền không, nhưng cũng may có anh trong CLB kayak Đà Nẵng hướng dẫn chèo nên 2 thằng đã quẩy ngon lành trên sông Hàn.
 
@@ -61,8 +59,7 @@ Vui nhất là chèo kayak đi xuyên qua dòng nước mà con cá chép hóa r
 
 *Nghỉ ngơi dưới cầu rồng.*
 
-3, Cắm trại thôn Vạn Buồng – Quảng Nam
---------------------------------------
+## Cắm trại thôn Vạn Buồng – Quảng Nam
 
 Theo lịch trình thì sau khi chèo kayak xong sẽ chạy thẳng lên Huế luôn, nhưng chị Cá rủ rê hấp dẫn quá nên tụi mình nán lại thêm 1 ngày để đi cắm trại tại Vạn Buồng – là 1 thôn nhỏ của huyện Duy Xuyên, Quảng Nam. Cách Đà Nẵng khoảng 40km theo hướng về Quảng Nam.
 

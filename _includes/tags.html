@@ -1,38 +1,14 @@
-<style>
-    .tags ul {
-        list-style: none;
-        padding: 0;
-    }
-
-    .tags ul li {
-        display: inline;
-        padding: 2px;
-        background: #46cffc;
-        color: black;
-        margin: 0.2em;
-        text-decoration: none;
-        line-height: 2em;
-    }
-
-    .tags ul li:hover {
-        background: #0ea3fc
-    }
-</style>
 <hr>
 <section>
     {% if page.tags %}
     <div class="tags">
-        <ul>
-            {% for tag in page.tags %} {% for site_tag in site.tags_config %} {% if tag == site_tag.name %}
-            <li>
-                <a style="text-decoration: none" href="{{ site.site_url }}/tag/{{ site_tag.slug }}">
-                    <span class="label label-dark">
-                        #{{ tag }}
-                    </span>
-                </a>
-            </li>
-            {% endif %} {% endfor %} {% endfor %}
-        </ul>
+        {% for tag in page.tags %} {% for site_tag in site.tags_config %} {% if tag == site_tag.name %}
+        <span class="tag is-primary">
+            <a style="text-decoration: none" href="{{ site.site_url }}/tag/{{ site_tag.slug }}">
+                #{{ tag }}
+            </a>
+        </span>
+        {% endif %} {% endfor %} {% endfor %}
     </div>
     {% endif %}
     <!-- <br> 

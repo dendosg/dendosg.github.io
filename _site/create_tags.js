@@ -1,6 +1,6 @@
 const fs = require('fs')
 let tags = fs.readFileSync('create_tags.txt').toString().split('\n')
-
+tags = tags.map(item=>item.trim())
 tags.forEach(tag => {
     fs.writeFileSync('tag/' + change_alias(tag) + '.md', create_file_tag(tag))
     fs.appendFileSync('create_tags.md',create_tag_config(tag)+'\n')

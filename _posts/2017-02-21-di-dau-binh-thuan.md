@@ -5,17 +5,19 @@ categories: [Kinh Nghiệm]
 author: 'Đèn Đỏ'
 cover: '/assets/img/upload/2017/02/featured-binh-thuan.jpg'
 tags: [Kê Gà,Mũi Né,Phan Thiết,Bàu Trắng,Suối Tiên,Bình Thuận]
+related_posts:
+ - link: /trai-nghiem-cuoc-song-cung-dan-ban-dia
+ - link: /bat-dau-hanh-trinh-xuyen-viet
+ - link: /bat-dau-hanh-trinh-xuyen-viet
 ---
 
 ![](https://dendosg.github.io/assets/img/upload/2017/02/f-binh-thuan.jpg)
 
-Đi đâu khi tới Bình Thuận?
-==========================
+# Đi đâu khi tới Bình Thuận?
 
 **Mình xin chia sẻ 1 vài địa điểm và lịch trình tham khảo dưới đây, hy vọng giúp ích được nhiều người. Ở Sài Gòn mà dành cuối tuần để đi bụi Bình Thuận là hợp lý lắm đó.**
 
-1, Hải đăng Kê Gà
------------------
+## 1. Hải đăng Kê Gà
 
 Hải đăng mũi Kê Gà cách Phan Thiết 30km về hướng Nam. Con đường ven biển từ Phan Thiết đi Kê Gà rất đẹp, đường rộng và ít khúc cua, cây cối nhiều kết hợp với gió biển, tạo cho bạn một cảm giác thư thái dễ chịu khi di chuyển trên cung đường này. Đây là một trong những ngọn hải đăng cao và cổ xưa nhất Đông Nam Á.
 
@@ -34,8 +36,7 @@ Ngọn hải đăng Kê Gà nằm trên một hòn đảo nhỏ, cách đất li
 
 ![](https://dendosg.github.io/assets/img/upload/2017/02/phan-thiet-mui-ne-binh-thuan-37.jpg)
 
-2, Suối Tiên
-------------
+## 2. Suối Tiên
 
 Suối Tiên thực chất là một khe nước chảy từ sa mạc cát, trước kia có tên gọi là suối Tre. Xưa kia người Phan Thiết cũng ít ai biết suối Tre vì nó nằm khuất sau những đồi cát. Để đến được Suối Tiên, bạn di chuyển đến đầu đường Huỳnh Thúc Kháng (Hàm Tiến, TP Phan Thiết) rồi hỏi người dân đường vào suối. Vé vào suối là 5.000 đồng một người.
 
@@ -53,8 +54,7 @@ Không gian ở đây đỏ rực bởi màu cát, có hàng nghìn nhũ cát l�
 
 ![](https://dendosg.github.io/assets/img/upload/2017/02/phan-thiet-mui-ne-binh-thuan-22.jpg)
 
-3, Đồi cát Mũi Né
------------------
+## 3. Đồi cát Mũi Né
 
 Đồi cát Mũi Né còn có tên gọi khác là đồi cát bay, bởi hình dáng của nó thay đổi liên tục từng ngày từng tháng nhờ gió. Đồi cát trải dài từ Bình Thuận đến Ninh Thuận, nhưng khu vực đẹp nhất nằm ở Mũi Né.
 
@@ -78,8 +78,7 @@ Ngắm hoàng hôn trên đồi cát là một trải nghiệm thú vị. Khoả
 
 ![](https://dendosg.github.io/assets/img/upload/2017/02/phan-thiet-mui-ne-binh-thuan-32.jpg)
 
-4, Bàu Trắng
-------------
+## 4. Bàu Trắng
 
 Chạy dọc bờ biển từ Mũi Né về hướng Đông Bắc khoảng 30km là nét trong trẻo, hoang sơ của Bàu Trắng-Bàu Sen. Đặc biệt đoạn đường chạy qua Bàu Trắng rất đẹp, đi trên đường này thấy trời đất bao la lắm :p
 
@@ -106,10 +105,10 @@ Chạy dọc bờ biển từ Mũi Né về hướng Đông Bắc khoảng 30km 
 ![](https://dendosg.github.io/assets/img/upload/2017/02/phan-thiet-mui-ne-binh-thuan-42.jpg)
 
 Trên đây là vài gợi ý của mình cho câu hỏi đến Bình Thuận thì đi đâu. Tất nhiên chưa phải là tất tần tật về những điểm đến của Bình Thuận, ngoài ra còn có núi Tà Cú, Tháp Chàm, bãi đá Cổ Thạch, đảo Phú Quý, KDL Cocobeach …cũng rất nổi tiếng.
+<hr />
+**Đây là lịch trình đi Bình Thuận 2 ngày 1 đêm theo cách của mình, bạn có thể tham khảo:**
 
-#### *Đây là lịch trình đi Bình Thuận 2 ngày 1 đêm theo cách của mình, bạn có thể tham khảo:
-
-##### -Ngày 1: Sài Gòn – Kê Gà – Phan Thiết – Mũi Né
+#### Ngày 1: Sài Gòn – Kê Gà – Phan Thiết – Mũi Né
 
 Sáng nên đi sớm để có thời gian mà chơi nữa nha. Chạy từ Sài Gòn cỡ trưa ghé vào Kê Gà 1 lúc rồi chạy về Phan Thiết, đoạn đường Kê Gà – Phan Thiết đi rất đã.
 
@@ -117,11 +116,11 @@ Chiều tầm 3h chạy tới Suối Tiên là vừa, đi lúc đó đỡ nắng
 
 Tối lên Phan Thiết ăn uống bung lụa rồi về lại Mũi Né, tiện ghé bãi đá Ông Địa, ban đêm nhiều người ra đây hóng mát lắm.
 
-##### -Ngày 2: Mũi Né – Bàu Trắng – Sài Gòn.
+#### Ngày 2: Mũi Né – Bàu Trắng – Sài Gòn.
 
 Sáng ra Mũi Né tắm biển rồi chạy lên Bàu Trắng chơi tí, chủ yếu là đi cái đoạn đường đẹp đẹp qua Bàu Trắng thôi :3. Xong rồi thong thả mà về Sài Gòn, hết tuần. Hết bài.
 
-Đây là cái bản đồ mấy điểm ở trên, xem cho dễ hình dung nè.
+Đây là cái bản đồ mấy điểm ở trên, xem cho dễ hình dung.
 
 <div class="iframewrapper" >
 <iframe src="https://www.google.com/maps/d/embed?mid=1Y1DtHetMCR1cdN758jiXm0vjt3o" width="640" height="480"></iframe>

@@ -233,7 +233,7 @@
 
 .markdown-body a {
   color: inherit;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .markdown-body strong {
@@ -535,7 +535,7 @@ li p:nth-child(2) {
 
 .markdown-body ul,
 .markdown-body ol {
-  padding-left: 2em;
+  /* padding-left: 2em; */
 }
 
 .markdown-body ul ul,

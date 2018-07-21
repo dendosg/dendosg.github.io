@@ -2,7 +2,7 @@
 layout: post
 title: "[Xuyên Việt] Trải nghiệm cuộc sống cùng dân bản địa"
 categories: [Xuyên Việt]
-tags: [Tuy Phong, Phan Rang, Vĩnh Hy, Nha Trang, Đầm Môn,Phú Yên]
+tags: [Tuy Phong, Phan Rang, Vĩnh Hy, Nha Trang, Đầm Môn,Phú Yên,Nho Ba Mọi,Tháp Chàm,Cộng Coffee]
 cover: '/assets/img/upload/2017/02/dam-mon-khanh-hoa-2.jpg'
 ---
 
@@ -29,7 +29,6 @@ Chủ trang trại là bác Ba Mọi, bác rất thân thiện và hiếu khách
 ![Tháp Chàm - Phan Rang](https://dendosg.github.io/assets/img/upload/2017/02/thap-chan-phan-rang-ninh-thuan-2.jpg)
 
 *Tháp Chàm nằm trên đồi Trầu, cách TP.Phan Rang 7km về phía Tây*
-
  ![Tháp Chàm - Phan Rang](https://dendosg.github.io/assets/img/upload/2017/02/thap-chan-phan-rang-ninh-thuan-1.jpg)
 
 Chúng tôi men theo đường ven biển để đến với TP. Nha Trang. Cung đường có rất nhiều đoạn đạt tới cảnh giới đẹp vãi, núi cao 1 bên biển rộng 1 bên, đã thế đường còn vắng, nhất những đoạn đi qua Vĩnh Hy, bãi biển Bình Tiên.  
