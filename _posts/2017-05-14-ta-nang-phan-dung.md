@@ -4,6 +4,10 @@ title: "[Trekking] Tà Năng – Phan Dũng"
 categories: [Du Ký]
 tags: [Tà Năng, Phan Dũng, Trekking]
 cover: '/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-3.jpg'
+related_posts:
+ - link: /lang-bich-hoa-tam-thanh-quang-nam
+ - link: /thac-draynur
+ - link: /tro-lai-phu-yen-2017
 ---
 
 

@@ -4,6 +4,10 @@ title: "[Xuyên Việt] Ghé làng bích họa Tam Thanh – Quảng Nam"
 categories: [Xuyên Việt]
 tags: [Bích Họa, Tam Thanh, Quảng Nam]
 cover: '/assets/img/upload/2017/04/thumb-bichhoa.jpg'
+related_posts:
+ - link: /ta-nang-phan-dung
+ - link: /eo-gio-dac-san-quang-ngai
+ - link: /xuyen-viet-bac-trung-bo
 ---
 
 

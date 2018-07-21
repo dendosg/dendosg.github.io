@@ -4,6 +4,10 @@ title: "[Xuyên Việt] Hành trình bắt đầu"
 categories: [Xuyên Việt]
 tags: [Bình Thuận]
 cover: '/assets/img/upload/2017/02/featured-xuyen-viet-binh-thuan.jpg'
+related_posts:
+ - link: /trai-nghiem-cuoc-song-cung-dan-ban-dia
+ - link: /cheo-thuyen-kayak-tren-song-han
+ - link: /eo-gio-dac-san-quang-ngai
 ---
 
 

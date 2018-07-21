@@ -8,7 +8,6 @@ tags: [Kê Gà,Mũi Né,Phan Thiết,Bàu Trắng,Suối Tiên,Bình Thuận]
 related_posts:
  - link: /trai-nghiem-cuoc-song-cung-dan-ban-dia
  - link: /bat-dau-hanh-trinh-xuyen-viet
- - link: /bat-dau-hanh-trinh-xuyen-viet
 ---
 
 ![](https://dendosg.github.io/assets/img/upload/2017/02/f-binh-thuan.jpg)

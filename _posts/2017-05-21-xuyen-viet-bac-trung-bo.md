@@ -4,6 +4,10 @@ title: "[Xuyên Việt] Bắc Trung Bộ"
 categories: [Xuyên Việt]
 tags: [Đèo Hải Vân,Động Phong Nha,Suối Nước Moọc,Đèo Ngang,Làng Sen]
 cover: '/assets/img/upload/2017/05/kdl-suoi-mooc-quang-binh-3.jpg'
+related_posts:
+ - link: /lang-bich-hoa-tam-thanh-quang-nam
+ - link: /eo-gio-dac-san-quang-ngai
+ - link: /cheo-thuyen-kayak-tren-song-han
 ---
 
 
