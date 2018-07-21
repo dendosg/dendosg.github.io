@@ -25,7 +25,7 @@ ul{
     list-style-type:none
 }
 a{
-    color:black;
+    color:teal;
     text-decoration:none;
     cursor:pointer;
     transition:.2s
