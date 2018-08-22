@@ -4,11 +4,14 @@ title: "[Xuyên Việt] Trải nghiệm cuộc sống cùng dân bản địa"
 categories: [Xuyên Việt]
 tags: [Tuy Phong, Phan Rang, Vĩnh Hy, Nha Trang, Đầm Môn,Phú Yên,Nho Ba Mọi,Tháp Chàm,Cộng Coffee]
 cover: '/assets/img/upload/2017/02/dam-mon-khanh-hoa-2.jpg'
+excerpt: "Người ta thường nói “gió như phan nắng như rang”, nhưng cho đến khi ngồi trên xe máy chạy dọc chạy ngang vùng đất Phan Rang thì tôi mới thực sự thấy được sự khắc nghiệt của thời tiết nơi đây."
 related_posts:
  - link: /lang-bich-hoa-tam-thanh-quang-nam
  - link: /cheo-thuyen-kayak-tren-song-han
  - link: /eo-gio-dac-san-quang-ngai
 ---
+{% include series-xuyen-viet.html %}
+
 
 **Tiếp tục với chuỗi các bài viết về chuyến Xuyên Việt của minh, bài viết này sẽ viết về cung đường: Tuy Phong (Bình Thuận) – Phan Rang – Vĩnh Hy – Nha Trang – Đầm Môn – Phú Yên.**
 
@@ -22,13 +25,13 @@ Tới Phan Rang, chúng tôi tìm đến vườn nho Ba Mọi đầu tiên. Đâ
 
 ![vườn nho Ba Mọi - Ninh Thuận](https://dendosg.github.io/assets/img/upload/2017/02/vuon-nho-ba-moi-phan-rang-ninh-thuan-2.jpg)
 
-Chủ trang trại là bác Ba Mọi, bác rất thân thiện và hiếu khách, ai tới đây sau khi tham quan trang trại xong cũng đều được bác mời vào uống rượu nho, ăn táo ăn nho, tất nhiên là free =)) Nhưng hầu hết ai ăn thử rồi cũng sẽ mua thêm mang về bởi vì quá ngon.
+Chủ trang trại là bác Ba Mọi, bác rất thân thiện và hiếu khách, ai tới đây sau khi tham quan trang trại xong cũng đều được bác mời vào uống rượu nho, ăn táo ăn nho, tất nhiên là free. Nhưng hầu hết ai ăn thử rồi cũng sẽ mua thêm mang về bởi vì quá ngon.
 
 ![vườn nho Ba Mọi - Ninh Thuận](https://dendosg.github.io/assets/img/upload/2017/02/vuon-nho-ba-moi-phan-rang-ninh-thuan-4.jpg)
 
 ![vườn nho Ba Mọi - Ninh Thuận](https://dendosg.github.io/assets/img/upload/2017/02/vuon-nho-ba-moi-phan-rang-ninh-thuan-5.jpg)
 
-Điểm đến tiếp theo là tháp Chàm, nằm trên 1 ngọn đồi ở TP.Phan Rang. Thực sự thì leo mấy bậc thang để lên tháp giữa trưa trong điều kiện nắng gắt như vậy cũng không khoái lắm :))Nên cũng ghé tí rồi chạy ra hướng biển luôn chứ nóng quá không chịu không có nổi.
+Điểm đến tiếp theo là tháp Chàm, nằm trên 1 ngọn đồi ở TP.Phan Rang. Thực sự thì leo mấy bậc thang để lên tháp giữa trưa trong điều kiện nắng gắt như vậy cũng không khoái lắm. Nên cũng ghé tí rồi chạy ra hướng biển luôn chứ nóng quá không chịu không nổi.
 
 ![Tháp Chàm - Phan Rang](https://dendosg.github.io/assets/img/upload/2017/02/thap-chan-phan-rang-ninh-thuan-2.jpg)
 
@@ -97,3 +100,7 @@ Sáng hôm sau, tạm biệt gia đình Duy, chúng tôi lại tiếp tục hàn
 
 ![](https://dendosg.github.io/assets/img/upload/2017/02/bai-xep-phu-yen-2.jpg)
 *Một trong những cảnh phim “Tôi thấy hoa vàng trên cỏ xanh”*
+
+![Cầu gỗ Tuy An – Phú Yên](https://dendosg.github.io/assets/img/upload/2017/04/GOPR2177.jpg)
+
+*Cầu gỗ Tuy An – Phú Yên. Trên đường chạy lên Quy Nhơn*

@@ -4,9 +4,9 @@
     </div>
     <i id="menu-toggle" class="iconfont icon-menu"></i>
     <nav class="g-nav">
-        <ul> {% for i in site.nav %}
+        <ul> {% for item in site.data.navbar %}
             <li>
-                <a href="{{ i[1] }}">{{ i[0] }}</a>
+                <a href="{{ item.slug }}">{{ item.name }}</a>
             </li> {% endfor %}</ul>
     </nav>
 </header>

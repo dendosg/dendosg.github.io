@@ -13,15 +13,21 @@
                     <a href="#" rel="author">{% if page.author %}{{ page.author }}{% else %}{{ site.author.name }}{% endif %}</a>
                     </> </span>
                 <time class="post-meta-item" datetime="{{ page.date | date:" %y-%m-%d " }}">
-                    <i class="iconfont icon-date"></i>{{ page.date | date_to_string }}</time> {% include read-time.html %}</div>
+                    <i class="iconfont icon-date"></i>{{ page.date | date:" %d-%m-%Y " }}</time> {% include read-time.html %}</div>
         </div> {% if page.cover %}
         <div class="filter"></div>
         <div class="post-cover" style="background: url('{{ page.cover }}') center no-repeat; background-size: cover;">
         {% endif %} </header>
     <div class="post-content"> {% if page.subtitle %}
         <h2 class="post-subtitle">{{ page.subtitle }}</h2> {% endif %}
-        <article class="markdown-body"> {{ page.content }} {% include tags.html %} </article>
+        <article class="markdown-body"> 
+            {{ page.content }}
+             {% include tags.html %}
+             {% include comment.html %}
+             </article>
+        
     </div>
+
     <section class="author-detail">
         <section class="post-footer-item author-card">
             <div class="avatar">

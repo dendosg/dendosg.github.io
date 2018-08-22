@@ -13,7 +13,7 @@ related_posts:
 
 **Tà Năng – Phan Dũng là một cung trekking đã hút hồn dân đam mê xê dịch bởi vẻ đẹp hoang sơ, sự hùng vĩ của núi rừng và những trải nghiệm khó quên mà chuyến đi mang lại.**
 
-Tà Năng là 1 xã thuộc huyện Đức Trọng, tỉnh Lâm Đồng. Phan Dũng thuộc huyện Tuy Phong, tỉnh Bình Thuận. Đi từ Tà Năng xuống Phan Dũng sẽ đi qua 3 tỉnh Lâm Đồng, Ninh Thuận và Bình Thuận. Nhóm mình 5 người, trek trong 3 ngày.  
+Tà Năng là 1 xã thuộc huyện Đức Trọng, tỉnh Lâm Đồng còn Phan Dũng thuộc huyện Tuy Phong, tỉnh Bình Thuận. Đi từ Tà Năng xuống Phan Dũng sẽ đi qua 3 tỉnh Lâm Đồng, Ninh Thuận và Bình Thuận. Nhóm mình 5 người, trek trong 3 ngày.  
 ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-93.jpg)
 
 “Điều tuyệt vời nhất khi ngủ lại trong rừng đó là buổi sáng tỉnh dậy, thấy mình đang nằm giữa cái mênh mang, sâu thẳm của rừng núi, nghe tiếng chim hót, tiếng suối chảy. Và từng giọt sương đọng nhẹ trên tán lá. Mở cửa lều, thấy mọi thứ nhẹ bẫng kỳ lạ”.
@@ -24,7 +24,7 @@ Những con đường dài tưởng như vô tận vắt ngang qua hết đồi 
 
 ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-2.jpg)
 
-*Đi thong dong trên những con đường dài như vô tận, vắt ngang qua ngọn đồi này đến ngọn đồi khác*
+*Những con đường dài như vô tận, vắt ngang qua ngọn đồi này đến ngọn đồi khác*
 
 ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-3.jpg)
 
@@ -34,7 +34,7 @@ Những con đường dài tưởng như vô tận vắt ngang qua hết đồi 
 
 ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-15.jpg)
 
-Leo đồi, băng rừng, lội suối, ăn ngon ở bẩn :v, ngủ lại trong rừng, bụi như dân bụi, cũng chỉ để rời chốn xô bồ, ném bản thân vào khó khăn để lớn lên từ những khó khăn đó.
+Leo đồi, băng rừng, lội suối, ăn ngon ở bẩn :v, ngủ lại trong rừng, bụi như dân bụi, cũng chỉ để rời chốn xô bồ, ném bản thân vào khó khăn.
 
 ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-9.jpg)
 
@@ -48,7 +48,7 @@ Leo đồi, băng rừng, lội suối, ăn ngon ở bẩn :v, ngủ lại trong
 
 *Ngồi nghỉ ngơi ngắm cảnh, lấy sức để vác củi về doanh trại tối đốt lửa*
 
-Đêm. Nằm cạnh bờ suối, gác chân lên đá, tay vắt lên trán, phóng tầm mắt lên trời cao ngắm sao, nghe tiếng suối chảy, lại có cả vài con đom đóm bay xung quanh nữa. Tự cảm thấy mình là thằng rất biết hưởng thụ.
+Đêm. Nằm cạnh bờ suối, gác chân lên đá, tay vắt lên trán, phóng tầm mắt lên trời cao ngắm sao, nghe tiếng suối chảy, lại có cả vài con đom đóm bay xung quanh nữa.
 
 ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-1.jpg)
 
@@ -123,7 +123,7 @@ Leo đồi, băng rừng, lội suối, ăn ngon ở bẩn :v, ngủ lại trong
 
 ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-45.jpg)
 
-*Nồi cơm này có gia vị “đói” vào nên ăn ngon lắm*
+*Nồi cơm này có gia vị “đói” vào nên ăn ngon hẳn*
 
 ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-47.jpg)
 
@@ -158,8 +158,6 @@ Leo đồi, băng rừng, lội suối, ăn ngon ở bẩn :v, ngủ lại trong
 *Những quả đồi cỏ xanh mướt*
 
 ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-68.jpg)
-
-*Chị trong nhóm bảo đi ở đây nghe bài đồng xanh là hợp lý nhất*
 
 ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-67.jpg)
 
@@ -203,14 +201,13 @@ Leo đồi, băng rừng, lội suối, ăn ngon ở bẩn :v, ngủ lại trong
 ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-138.jpg) 
 ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-136.jpg) 
 ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-135.jpg)
-
 ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-143.jpg) 
 ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-142.jpg) 
 ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-140.jpg) 
 ![cung đường Tà Năng - Phan Dũng](https://dendosg.github.io/assets/img/upload/2017/05/trekking-ta-nang-phan-dung-139.jpg)
 
-*   Xem đầy đủ ảnh tại album facebook(có chia sẻ kinh nghiệm đi cung này ở comment #1): [https://web.facebook.com/media/set/?set=a.783667858425695.1073741892.100003474639175&type=1&l=1635f06db3](https://web.facebook.com/media/set/?set=a.783667858425695.1073741892.100003474639175&type=1&l=1635f06db3)
-*   Xem thêm bài báo mình viết về cung trekking này: [http://emdep.vn/di/hanh-trinh-chinh-phuc-nui-doi-ta-nang-dau-xuan-moi-20160112122816268.htm](http://emdep.vn/di/hanh-trinh-chinh-phuc-nui-doi-ta-nang-dau-xuan-moi-20160112122816268.htm)
+*   Xem đầy đủ ảnh tại album facebook(có chia sẻ kinh nghiệm đi cung này ở comment #1): [https://www.facebook.com/783667858425695](https://web.facebook.com/media/set/?set=a.783667858425695.1073741892.100003474639175&type=1&l=1635f06db3)
+*   Xem thêm bài báo mình viết về cung trekking này: [http://emdep.vn/ta-nang-phan-dung](http://emdep.vn/di/hanh-trinh-chinh-phuc-nui-doi-ta-nang-dau-xuan-moi-20160112122816268.htm?utm_source=ngaoduky)
 
 Cuối cùng giới thiệu mọi người bài Đi theo bóng mặt trời – Đen ft M!. MV bài này là cảnh ở Tà Năng, tối hôm qua Đen up bài hát này lên, ưng cái lời quá mình nghe cả đêm tới sáng rồi nổi hứng viết bài viết này.
 

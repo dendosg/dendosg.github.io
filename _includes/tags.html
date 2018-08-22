@@ -1,1 +1,7 @@
-<hr> <section> {% if page.tags %}<div class="tags"> {% for tag in page.tags %} {% for site_tag in site.tags_config %} {% if tag == site_tag.name %} <span class="tag is-primary"> <a style="text-decoration: none" href="{{ site.site_url }}/tag/{{ site_tag.slug }}"> #{{ tag }} </a> </span> {% endif %} {% endfor %} {% endfor %}</div> {% endif %} </section><hr>
+<hr>
+<section> {% if page.tags %}
+    <div class="tags"> {% for tag in page.tags %} {% for site_tag in site.data.tags %} {% if tag == site_tag.name %}
+        <span class="tag is-dark">
+            <a style="text-decoration: none" class="has-text-white" href="{{ site.site_url }}/tag/{{ site_tag.slug }}.html"> #{{ tag }} </a>
+        </span> {% endif %} {% endfor %} {% endfor %}</div> {% endif %} </section>
+<hr>

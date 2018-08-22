@@ -4,11 +4,14 @@ title: "[Xuyên Việt] Hành trình bắt đầu"
 categories: [Xuyên Việt]
 tags: [Bình Thuận]
 cover: '/assets/img/upload/2017/02/featured-xuyen-viet-binh-thuan.jpg'
+excerpt: "5h sáng ngày 02-07-2016, chúng tôi lên đường thực hiện chuyến đi đã được chờ đợi hơn nửa năm trời. Cảm giác vừa háo hức vừa hồi hộp, không nghĩ nó đến nhanh như thế. Vậy là chuyến đi của tôi và thằng bạn tôi đã bắt đầu – 30 ngày chạy xe máy khắp Việt Nam"
 related_posts:
  - link: /trai-nghiem-cuoc-song-cung-dan-ban-dia
  - link: /cheo-thuyen-kayak-tren-song-han
  - link: /eo-gio-dac-san-quang-ngai
 ---
+
+{% include series-xuyen-viet.html %}
 
 
 **5h sáng ngày 02-07-2016, chúng tôi lên đường thực hiện chuyến đi đã được chờ đợi hơn nửa năm trời. Cảm giác vừa háo hức vừa hồi hộp, không nghĩ nó đến nhanh như thế. Vậy là chuyến đi của tôi và thằng bạn tôi đã bắt đầu – 30 ngày chạy xe máy khắp Việt Nam.**
@@ -30,19 +33,19 @@ Tôi bắt đầu tìm hiểu, lên kế hoạch, chuẩn bị đồ đạc. Và
 
 *Ngày đầu tiên của hành trình. Đoạn đường ven biển từ Kê Gà đi Phan Thiết*
 
-### Lộ trình ngày đầu tiên: Sài Gòn – Kê Gà – Phan Thiết – Mũi Né – Bàu Trắng – Tuy Phong (333km). Đây là lộ trình dài nhất trong hành trình Xuyên Việt, do mới ngày đầu nên còn sung sức với cả cũng muốn tiết kiệm thời gian để dành cho mấy điểm phía Bắc (những nơi mà chúng tôi chưa có dịp đặt chân tới).
+**Lộ trình ngày đầu tiên: Sài Gòn – Kê Gà – Phan Thiết – Mũi Né – Bàu Trắng – Tuy Phong (333km). Đây là lộ trình dài nhất trong hành trình Xuyên Việt, do mới ngày đầu nên còn sung sức với cả cũng muốn tiết kiệm thời gian để dành cho mấy điểm phía Bắc (những nơi mà chúng tôi chưa có dịp đặt chân tới)**
 
 Bình Thuận cảnh cũ đường quen, nên chưa có gì mới lạ. Ngày này đi mục đích cũng chỉ đơn giản là nhìn ngắm cung đường ven biển. Xem thêm: [Đến Bình Thuận thì đi đâu?](http://ngaoduky.com/di-dau-binh-thuan) để biết Bình Thuận có gì nhé.
 
-Chiều dừng ở bãi đá Ông Địa gần Mũi Né, có gặp 1 chú chạy xe hơi từ Sài Gòn lên. Thấy xe nhiều đồ rồi hỏi đi tới đâu vậy cháu  
+Chiều dừng ở bãi đá Ông Địa gần Mũi Né, có gặp 1 chú chạy từ Sài Gòn lên. Thấy xe nhiều đồ rồi hỏi 
+-Đi tới đâu vậy cháu  
 -Dạ tới Tây Bắc ạ  
 -Chu, dữ ta. Thế tính đi trong bao lâu  
 -Khoảng 1 tháng ạ  
 -Chậc chậc. Chú giờ muốn đi như vậy mà không thể, vướng nhiều thứ lắm cháu.  
-Thế đó, xăng đang rẻ, tuổi còn trẻ, tóc vẫn xanh, máu thì nóng nên tôi sẽ tranh thủ đi lung tung khi còn có thể để sau này không phải tiếc nuối.
+Có lẽ khi đã qua sườn bên kia của cuộc đời, điều khiến chúng ta hối tiếc nhất đó là không làm được nhiều điều như khi còn trẻ, những việc mà chúng ta dễ dàng thực hiện khi có sức khỏe và thời gian của tuổi trẻ.
 
-
-#### Một số hình ảnh ngày đầu tiên
+### Một số hình ảnh ngày đầu tiên
 
 ![](https://dendosg.github.io/assets/img/upload/2017/02/xuyen-viet-mui-ne-phan-thiet-bau-trang-2.jpg)
 

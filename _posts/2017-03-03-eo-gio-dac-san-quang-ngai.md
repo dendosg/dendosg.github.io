@@ -4,19 +4,20 @@ title: "[Xuyên Việt] Ghé Eo Gió, nếm đặc sản Quảng Ngãi"
 categories: [Xuyên Việt]
 tags: [Eo Gió,Quảng Ngãi,Quy Nhơn,Bình Định,Tuy An]
 cover: '/assets/img/upload/2017/04/thumbnail-eo-gio.jpg'
+excerpt: "Chúng tôi lại tiếp tục hành trình bằng 1 điểm đến mới – tp. Quy Nhơn. Kể từ đây, mỗi chặng đường mà chúng tôi đi ..."
 related_posts:
  - link: /lang-bich-hoa-tam-thanh-quang-nam
  - link: /trai-nghiem-cuoc-song-cung-dan-ban-dia
  - link: /xuyen-viet-bac-trung-bo
 ---
+{% include series-xuyen-viet.html %}
+
 
 **Tạm biệt [Phú Yên](http://ngaoduky.com/trai-nghiem-cuoc-song-cung-dan-ban-dia), chúng tôi lại tiếp tục hành trình bằng 1 điểm đến mới – tp. Quy Nhơn. Kể từ đây, mỗi chặng đường mà chúng tôi đi đều là những vùng đất mới, nơi mà cả 2 chúng tôi đều chưa có dịp đặt chân đến. Không còn 1 Bình Thuận cảnh cũ đường quen, không là 1 Phú Yên thân thuộc như quê nhà. Mọi thứ đều lạ lẫm mới 2 chúng tôi, và tất nhiên, chúng tôi thấy thích thú vì điều đó.**
 
-![Cầu gỗ Tuy An – Phú Yên](https://dendosg.github.io/assets/img/upload/2017/04/GOPR2177.jpg)
 
-*Cầu gỗ Tuy An – Phú Yên. Trên đường chạy lên Quy Nhơn*
 
-Dọc theo con đường ven biển, sau vài tiếng chạy xe thì đến trưa chúng tôi đã tới được tp.Quy Nhơn. Cảm nhận đầu tiên về thành phố này đó là sự sạch sẽ. Đến chiều thì trời đổ mưa, tới gần tối thì mới tạnh và vẫn còn âm u. Tranh thủ lượn ra biển hóng mát tí rồi đi ăn.
+Dọc theo con đường ven biển, sau vài tiếng chạy xe thì đến trưa chúng tôi đã tới được tp.Quy Nhơn. Đến chiều trời đổ mưa, tới gần tối thì mới tạnh và vẫn còn âm u. Tranh thủ lượn ra biển hóng mát tí rồi đi ăn.
 
 ![thành phố Quy Nhơn](https://dendosg.github.io/assets/img/upload/2017/04/GOPR2273.jpg)
 *Welcome to Quy Nhon city*

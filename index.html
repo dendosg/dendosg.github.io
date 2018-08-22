@@ -4,7 +4,8 @@ banner-title: ngaoduky
 description: viết linh tinh 
 ---
 <main class="g-container home-content">
-    <div class="article-list"> {% for post in paginator.posts %}
+    <div class="article-list">
+        {% for post in paginator.posts %}
         <article class="article-item"> {% if post.cover %}
             <div class="post-cover">
                 <a class="post-link" href="{{ post.url }}" title="{{ post.title }}"></a>
@@ -16,9 +17,10 @@ description: viết linh tinh
                 <h3 class="post-subtitle">{{ post.subtitle }}</h3> {% endif %} {% if post.subtitle.size==0 or post.subtitle==nil %}
                 <p class="post-excerpt">{{ post.excerpt | strip_html | strip_newlines | truncate: 126}}</p> {% endif %} </section>
             <footer class="post-meta">
-                <time class="post-date" datetime="{{ post.date | date:" %y-%m-%d " }}">{{ post.date | date_to_string }}</time>
+                <time class="post-date" datetime="{{ post.date | date:" %y-%m-%d " }}">{{ post.date | date:" %d-%m-%Y " }}</time>
             </footer>
-        </article> {% endfor %} {% if paginator.total_pages > 1 %} {% include pageNav.html %} {% endif %}</div>
+        </article>
+        {% endfor %} {% if paginator.total_pages > 1 %} {% include pageNav.html %} {% endif %}</div>
     <aside class="g-sidebar-wrapper">
         <div class="g-sidebar">
             <section class="author-card">

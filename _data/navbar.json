@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Trang chủ",
+        "slug": "/"
+    },
+    {
+        "name": "Tác giả",
+        "slug": "/about"
+    },
+    {
+        "name": "Xuyên Việt",
+        "slug": "/xuyen-viet"
+    },
+    {
+        "name": "Tags",
+        "slug": "/tags"
+    }
+]

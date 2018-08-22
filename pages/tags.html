@@ -1,0 +1,15 @@
+---
+layout: page
+banner-title: Tags
+description: Tags collection
+permalink: tags
+---
+
+
+<main class="g-container home-content" style="padding: 10px">
+  {% for tag in site.data.tags %}
+    <span class="tag is-dark" style="margin: 3px">
+        <a style="text-decoration: none" class="has-text-white" href="/tag/{{tag.slug}}.html"> #{{tag.name}}</a>
+    </span>
+  {% endfor %}
+</main>

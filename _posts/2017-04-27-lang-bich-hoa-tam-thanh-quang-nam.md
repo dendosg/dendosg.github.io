@@ -4,16 +4,14 @@ title: "[Xuyên Việt] Ghé làng bích họa Tam Thanh – Quảng Nam"
 categories: [Xuyên Việt]
 tags: [Bích Họa, Tam Thanh, Quảng Nam]
 cover: '/assets/img/upload/2017/04/thumb-bichhoa.jpg'
+excerpt: "Làng bích họa Tam Thanh là 1 dự án cộng đồng Hàn-Việt được thực hiện tại thôn Trung Thanh, xã Tam Thanh, thành phố Tam Kỳ, Quảng Nam. Dự án nhằm mục đích phát triển du lịch và nâng cao đời sống cho người dân nghèo nơi đ"
 related_posts:
  - link: /ta-nang-phan-dung
  - link: /eo-gio-dac-san-quang-ngai
  - link: /xuyen-viet-bac-trung-bo
 ---
 
-
-
-Làng bích họa Tam Thanh
------------------------
+{% include series-xuyen-viet.html %}
 
 **Làng bích họa Tam Thanh là 1 dự án cộng đồng Hàn-Việt được thực hiện tại thôn Trung Thanh, xã Tam Thanh, thành phố Tam Kỳ, Quảng Nam. Dự án nhằm mục đích phát triển du lịch và nâng cao đời sống cho người dân nghèo nơi đây.**
 
@@ -82,14 +80,14 @@ Người dân Tam Thanh rất hiền lành, thân thiện và hiếu khách. Nh�
 *Bãi biển ở ngay xã Tam Thanh, khá sạch và đẹp*
 
 Nếu có dịp, bạn hãy đến Tam Thanh 1 lần, để chiêm ngưỡng các tác phẩm nghệ thuật độc nhất vô nhị tại Việt Nam và thấy được vẻ thanh bình của 1 làng chài ven biển.  
+
+![Bức bích họa tại làng Tam Thanh](https://dendosg.github.io/assets/img/upload/2017/04/lang-bich-hoa-tam-thanh-quang-nam-9.jpg)
+
+![Bức bích họa tại làng Tam Thanh](https://dendosg.github.io/assets/img/upload/2017/04/lang-bich-hoa-tam-thanh-4.jpg)
+
+![Bức bích họa về các loài cá tại làng Tam Thanh](https://dendosg.github.io/assets/img/upload/2017/04/lang-bich-hoa-tam-thanh-1.jpg)
+*Bức bích họa về các loài cá tại làng Tam Thanh*
+
 Tham khảo thêm:
-
-*   [http://www.langbichhoatamthanh.com/](http://www.langbichhoatamthanh.com?utm_source=ngaoduky)
 *   [http://emdep.vn/xem-choi/den-quang-nam-ngam-lang-bich-hoa-dep-nhu-co-tich-2016070816512594.htm](http://emdep.vn/xem-choi/den-quang-nam-ngam-lang-bich-hoa-dep-nhu-co-tich-2016070816512594.htm?utm_source=ngaoduky)
-
-![bức bích họa tại làng Tam Thanh](https://dendosg.github.io/assets/img/upload/2017/04/lang-bich-hoa-tam-thanh-quang-nam-9.jpg)
-
-![bức bích họa tại làng Tam Thanh](https://dendosg.github.io/assets/img/upload/2017/04/lang-bich-hoa-tam-thanh-4.jpg)
-
-![bức bích họa về các loài cá tại làng Tam Thanh](https://dendosg.github.io/assets/img/upload/2017/04/lang-bich-hoa-tam-thanh-1.jpg)
 
