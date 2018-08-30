@@ -7,6 +7,31 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>chatfuel</title>
+				
+				
+					<description>&lt;h2&gt;Install&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;npm install chatfuel&lt;/code&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h2&gt;Usage&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;const chatfuel = require('chatfuel')&lt;/code&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;h3&gt;Send Text&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;const messages = []&lt;/code&gt; &lt;br /&gt;
+&lt;code&gt;messages.push(chatfuel.sendText({ text: 'Hello' }))&lt;/code&gt; &lt;br /&gt;
+&lt;code&gt;messages.push(chatfuel.sendText({ text: 'Welcome to chatfuel' }))&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Result:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;{&quot;messages&quot;:[{&quot;text&quot;:&quot;Hello&quot;},{&quot;text&quot;:&quot;Welcome to chatfuel&quot;}]}&lt;/code&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 08 Aug 2018 00:00:00 +0700</pubDate>
+				<link>http://localhost:4000/test</link>
+				<guid isPermaLink="true">http://localhost:4000/test</guid>
+			</item>
+		
+			<item>
 				<title>Suối Nước Moọc – Viên ngọc bích ẩn mình giữa núi rừng</title>
 				
 				
@@ -427,17 +452,6 @@
 				<pubDate>Tue, 21 Feb 2017 00:00:00 +0700</pubDate>
 				<link>http://localhost:4000/di-dau-binh-thuan</link>
 				<guid isPermaLink="true">http://localhost:4000/di-dau-binh-thuan</guid>
-			</item>
-		
-			<item>
-				<title>[Xuyên Việt] Hành trình bắt đầu</title>
-				
-				
-					<description>5h sáng ngày 02-07-2016, chúng tôi lên đường thực hiện chuyến đi đã được chờ đợi hơn nửa năm trời. Cảm giác vừa háo hức vừa hồi hộp, không nghĩ nó đến nhanh như thế. Vậy là chuyến đi của tôi và thằng bạn tôi đã bắt đầu – 30 ngày chạy xe máy khắp Việt Nam</description>
-				
-				<pubDate>Tue, 21 Feb 2017 00:00:00 +0700</pubDate>
-				<link>http://localhost:4000/bat-dau-hanh-trinh-xuyen-viet</link>
-				<guid isPermaLink="true">http://localhost:4000/bat-dau-hanh-trinh-xuyen-viet</guid>
 			</item>
 		
 	</channel>
