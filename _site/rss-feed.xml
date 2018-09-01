@@ -10,19 +10,18 @@
 				<title>chatfuel</title>
 				
 				
-					<description>&lt;h2&gt;Install&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;npm install chatfuel&lt;/code&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;h2&gt;Usage&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;const chatfuel = require('chatfuel')&lt;/code&gt;&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;h3&gt;Send Text&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;const messages = []&lt;/code&gt; &lt;br /&gt;
-&lt;code&gt;messages.push(chatfuel.sendText({ text: 'Hello' }))&lt;/code&gt; &lt;br /&gt;
-&lt;code&gt;messages.push(chatfuel.sendText({ text: 'Welcome to chatfuel' }))&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Result:&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;{&quot;messages&quot;:[{&quot;text&quot;:&quot;Hello&quot;},{&quot;text&quot;:&quot;Welcome to chatfuel&quot;}]}&lt;/code&gt;&lt;/p&gt;
+					<description>&lt;h2&gt;API Reference&lt;/h2&gt;
+&lt;ul style=&quot;margin: 20px&quot;&gt;
+    &lt;li&gt; &lt;a href=&quot;#send-text&quot;&gt;
+        Send Text
+    &lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&quot;#send-image&quot;&gt;
+        Send Image
+    &lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&quot;#send-video&quot;&gt;
+        Send Video
+    &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 </description>
 				
