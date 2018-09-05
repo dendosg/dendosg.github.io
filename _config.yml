@@ -2,7 +2,7 @@
 title: 'NGAO DU KÝ - Nhật Ký Ngao Du'
 description: 'Blog cá nhân viết linh tinh về những chuyến đi'
 url: 'http://ngaoduky.com' # your host
-ogimage: 'http://ngaoduky.com/assets/img/ngaoduky.jpg'
+ogimage: '/assets/img/ngaoduky.jpg'
 permalink:    /:title
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
