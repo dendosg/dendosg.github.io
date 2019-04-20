@@ -1,9 +1,9 @@
 const fs = require('fs')
 
-addTag('Tràng An')
+addTag('Chùa Bái Đính')
 
 function addTag(name){
-    const slug = generateUrl(name)
+    const slug = generateUrl(name).split(' ').join('-')
     const content = `---
 layout: tag
 banner-title: ${name}
@@ -30,7 +30,6 @@ function generateUrl(alias) {
     str = str.replace(/đ/g,"d");
     str = str.replace(/!|@|%|\^|\*|\(|\)|\+|\=|\<|\>|\?|\/|,|\.|\:|\;|\'|\"|\&|\#|\[|\]|~|\$|_|`|-|{|}|\||\\/g," ");
     str = str.replace(/ + /g," ");
-    str = str.replace(' ','-')
     str = str.trim(); 
     return str;
 }
