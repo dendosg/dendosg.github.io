@@ -10,7 +10,7 @@ related_posts:
  - link: /cheo-thuyen-kayak-tren-song-han
 ---
 
-**Mát lạnh, khoan khoái, êm đềm, kỳ lạ là cảm nhận của tôi khi đến với suối Nước Moọc (Quảng Bình) – viên ngọc bích ẩn mình giữa núi rừng hoang sơ. Cái nóng oi ả của những ngày hè dường như tan biến khi tôi đặt chân tới nơi đây, nơi có dòng nước suối trong xanh và nhiệt độ luôn dưới 20 độ C, kèm theo đó là rất nhiều trải nghiệm hấp dẫn.**
+**Mát lạnh, khoan khoái, êm đềm, kỳ lạ là cảm nhận của tôi khi đến với suối Nước Moọc (Quảng Bình) – viên ngọc bích ẩn mình giữa núi rừng hoang sơ. Cái nóng oi ả của những ngày hè dường như tan biến khi tôi đặt chân tới nơi đây, nơi có dòng nước suối trong xanh và nhiệt độ luôn dưới 20 độ C, kèm theo đó là rất nhiều trải nghiệm.**
 
 ![Dòng nước suối Moọc mát lạnh và xanh trong](assets/img/upload/2017/08/suoi-nuoc-mooc/suoi-nuoc-mooc-quang-binh-1.jpg)
 *Dòng nước suối Moọc mát lạnh và xanh trong*
@@ -66,32 +66,3 @@ Suối Nước Moọc là điểm nghỉ chân tuyệt vời và hợp lý dành
 
 ![](assets/img/upload/2017/08/suoi-nuoc-mooc/suoi-nuoc-mooc-quang-binh-9.jpg)
 ---
-## Một số thông tin về giá vé và đồ ăn ở suối Nước Moọc
-
-**Thông tin giá vé**
-<ul style="margin: 20px">
-    <li>Vé tham quan (từ 1,3m trở lên): 80.000 VND / lượt, loại vé vào cổng này chỉ vào tham quan và chụp ảnh thôi</li>
-    <li>Vé trọn gói: 180.000 VND / lượt, giá bao gồm vé vào cổng, áo phao, chèo thuyền kayak, các trò chơi cảm giác mạnh như nhảy từ cầu treo xuống suối, bảo hiểm tour</li>
-</ul>
-*Lưu ý KDL không cho mang đồ ăn bên ngoài vào*
-**Thông tin các món ăn**
-<ul style="margin: 20px">
-    <li>
-        Gà đồi: 200.000 VND / con
-    </li>
-    <li>
-        Xôi gấc:  50.000 VND / đĩa
-    </li>
-    <li>
-        Tôm càng nướng: 800.000 VND / đĩa
-    </li>
-    <li>
-        Thịt lợn mán: 200.000 VND / đĩa
-    </li>
-    <li>
-        Cơm nắm: 10.000 VND / nắm
-    </li>
-    <li>
-        Nước lọc: 10.000 VND / chai
-    </li>
-</ul>
