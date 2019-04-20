@@ -3,7 +3,6 @@ layout: post
 title: 'Đến Bình Thuận thì đi đâu'
 cover: '/assets/img/upload/2017/02/featured-binh-thuan.jpg'
 categories: [Kinh Nghiệm]
-author: 'Đèn Đỏ'
 tags: [Kê Gà,Mũi Né,Phan Thiết,Bàu Trắng,Suối Tiên,Bình Thuận]
 related_posts:
  - link: /trai-nghiem-cuoc-song-cung-dan-ban-dia

@@ -10,7 +10,7 @@
             <div class="post-meta">
                 <span class="post-meta-item">
                     <i class="iconfont icon-author"></i>
-                    <a href="#" rel="author">{% if page.author %}{{ page.author }}{% else %}{{ site.author.name }}{% endif %}</a>
+                    <a href="/about" rel="author">{% if page.author %}{{ page.author }}{% else %}{{ site.author.name }}{% endif %}</a>
                     </> </span>
                 <time class="post-meta-item" datetime="{{ page.date | date:" %y-%m-%d " }}">
                     <i class="iconfont icon-date"></i>{{ page.date | date:" %d-%m-%Y " }}</time> {% include read-time.html %}</div>
