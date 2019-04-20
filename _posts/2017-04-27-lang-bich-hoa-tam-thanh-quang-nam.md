@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Xuyên Việt] Ghé làng bích họa Tam Thanh – Quảng Nam"
+title: "Ghé làng bích họa Tam Thanh – Quảng Nam"
 categories: [Xuyên Việt]
 tags: [Bích Họa, Tam Thanh, Quảng Nam]
 cover: '/assets/img/upload/2017/04/thumb-bichhoa.jpg'

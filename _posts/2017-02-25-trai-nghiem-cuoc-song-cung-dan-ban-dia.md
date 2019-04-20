@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Xuyên Việt] Trải nghiệm cuộc sống cùng dân bản địa"
+title: "Trải nghiệm cuộc sống cùng dân bản địa"
 categories: [Xuyên Việt]
 tags: [Tuy Phong, Phan Rang, Vĩnh Hy, Nha Trang, Đầm Môn,Phú Yên,Nho Ba Mọi,Tháp Chàm,Cộng Coffee]
 cover: '/assets/img/upload/2017/02/dam-mon-khanh-hoa-2.jpg'

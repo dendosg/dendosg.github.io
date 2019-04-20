@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Xuyên Việt] Ghé Eo Gió, nếm đặc sản Quảng Ngãi"
+title: "Ghé Eo Gió, nếm đặc sản Quảng Ngãi"
 categories: [Xuyên Việt]
 tags: [Eo Gió,Quảng Ngãi,Quy Nhơn,Bình Định,Tuy An]
 cover: '/assets/img/upload/2017/04/thumbnail-eo-gio.jpg'
