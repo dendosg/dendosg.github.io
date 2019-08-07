@@ -1,3 +1,4 @@
 _drafts/
 .vscode/
 _site/
+node_modules/
